@@ -18,6 +18,14 @@ redirect_from:
       <div class="team-profile-label">Contact</div>
       <a href="mailto:info@neuroexpertsgroup.com">info@neuroexpertsgroup.com</a>
     </div>
+    <div class="team-logo-row">
+      <img class="logo-tile" src="/assets/img/affiliations/harvard.svg" alt="Harvard University logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/usc.svg" alt="USC logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/ucla.svg" alt="UCLA Health logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/va.svg" alt="Veterans Affairs logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/rancho-los-amigos.svg" alt="Rancho Los Amigos logo" loading="lazy" decoding="async">
+    </div>
+    <p class="team-affiliations">Affiliations: Harvard University, USC, UCLA Health, Veterans Affairs, Rancho Los Amigos.</p>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
@@ -66,6 +74,13 @@ redirect_from:
       <div class="team-profile-label">Contact</div>
       <a href="mailto:dbenmoshe@neuroexpertsgroup.com">dbenmoshe@neuroexpertsgroup.com</a>
     </div>
+    <div class="team-logo-row">
+      <img class="logo-tile" src="/assets/img/affiliations/albert-einstein.svg" alt="Albert Einstein College of Medicine logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/harbor-ucla.svg" alt="Harbor-UCLA logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/cedars-sinai.svg" alt="Cedars-Sinai logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/brain-science-research-institute.svg" alt="Brain Science Research Institute logo" loading="lazy" decoding="async">
+    </div>
+    <p class="team-affiliations">Affiliations: Albert Einstein College of Medicine, Harbor-UCLA Medical Center, Cedars-Sinai Medical Center, Brain Science Research Institute.</p>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
@@ -107,6 +122,13 @@ redirect_from:
       <div class="team-profile-label">Contact</div>
       <a href="mailto:lsabbah@neuroexpertsgroup.com">lsabbah@neuroexpertsgroup.com</a>
     </div>
+    <div class="team-logo-row">
+      <img class="logo-tile" src="/assets/img/affiliations/suffolk-university.svg" alt="Suffolk University logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/harvard-medical-school.svg" alt="Harvard Medical School logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/cedars-sinai.svg" alt="Cedars-Sinai logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/california-rehab-institute.svg" alt="California Rehabilitation Institute logo" loading="lazy" decoding="async">
+    </div>
+    <p class="team-affiliations">Affiliations: Suffolk University, Harvard Medical School, Cedars-Sinai Medical Center, California Rehabilitation Institute.</p>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
@@ -148,6 +170,13 @@ redirect_from:
       <div class="team-profile-label">Contact</div>
       <a href="mailto:dfenton@neuroexpertsgroup.com">dfenton@neuroexpertsgroup.com</a>
     </div>
+    <div class="team-logo-row">
+      <img class="logo-tile" src="/assets/img/affiliations/california-school-prof-psychology.svg" alt="California School of Professional Psychology logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/iowa-city-va.svg" alt="Iowa City VA logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/cedars-sinai.svg" alt="Cedars-Sinai logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/california-rehab-institute.svg" alt="California Rehabilitation Institute logo" loading="lazy" decoding="async">
+    </div>
+    <p class="team-affiliations">Affiliations: California School of Professional Psychology, Iowa City VA, Cedars-Sinai Medical Center, California Rehabilitation Institute.</p>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
@@ -189,6 +218,12 @@ redirect_from:
       <div class="team-profile-label">Contact</div>
       <a href="mailto:nbashardoust@neuroexpertsgroup.com">nbashardoust@neuroexpertsgroup.com</a>
     </div>
+    <div class="team-logo-row">
+      <img class="logo-tile" src="/assets/img/affiliations/usc-keck.svg" alt="USC Keck School of Medicine logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/usc.svg" alt="USC logo" loading="lazy" decoding="async">
+      <img class="logo-tile" src="/assets/img/affiliations/neuro-experts.svg" alt="Neuro Experts logo" loading="lazy" decoding="async">
+    </div>
+    <p class="team-affiliations">Affiliations: USC Keck School of Medicine, USC, Neuro Experts.</p>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
@@ -230,6 +265,10 @@ redirect_from:
       <div class="team-profile-label">Contact</div>
       <a href="mailto:sbolando@neuroexpertsgroup.com">sbolando@neuroexpertsgroup.com</a>
     </div>
+    <div class="team-logo-row">
+      <img class="logo-tile" src="/assets/img/affiliations/neuro-experts.svg" alt="Neuro Experts logo" loading="lazy" decoding="async">
+    </div>
+    <p class="team-affiliations">Affiliations: Neuro Experts.</p>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">

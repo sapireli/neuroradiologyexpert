@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="64" viewBox="0 0 200 64" role="img" aria-label="Albert Einstein College of Medicine logo">
+  <rect width="200" height="64" rx="14" fill="#ffffff" stroke="#e4dbd3" />
+  <rect x="10" y="10" width="44" height="44" rx="12" fill="#b0664b" />
+  <text x="32" y="32" text-anchor="middle" dominant-baseline="middle" font-family="Fraunces, serif" font-size="16" font-weight="600" fill="#ffffff">AE</text>
+  <text x="64" y="30" font-family="Space Grotesk, Arial, sans-serif" font-size="12" font-weight="600" fill="#1b1d21" dominant-baseline="middle">Albert Einstein</text>
+  <text x="64" y="46" font-family="Space Grotesk, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#5a6470" dominant-baseline="middle">College of Med</text>
+</svg>

@@ -149,6 +149,15 @@ img {
   gap: 6px;
 }
 
+.nav-item.has-panel::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  height: 14px;
+}
+
 .nav-panel-toggle {
   display: inline-flex;
   align-items: center;
@@ -172,7 +181,7 @@ img {
 
 .nav-panel {
   position: absolute;
-  top: calc(100% + 16px);
+  top: calc(100% + 12px);
   left: 0;
   min-width: 460px;
   padding: 18px;
@@ -196,6 +205,12 @@ img {
   opacity: 1;
   transform: translateY(0);
   pointer-events: auto;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .nav-panel-toggle {
+    display: none;
+  }
 }
 
 .nav-panel-title {
@@ -952,6 +967,29 @@ img {
   margin-top: 18px;
 }
 
+.team-logo-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 10px;
+  margin: 10px 0 6px;
+}
+
+.logo-tile {
+  display: block;
+  height: 42px;
+  width: auto;
+  max-width: 190px;
+  border-radius: 12px;
+}
+
+.team-affiliations {
+  margin: 6px 0 0;
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 .profile-details {
   border-top: 1px solid rgba(20, 20, 31, 0.08);
   padding-top: 10px;
@@ -1378,8 +1416,16 @@ img {
 
 .site-footer {
   padding: 50px 0 30px;
-  background: var(--ocean);
+  background: linear-gradient(160deg, #1a232b 0%, #1f2a33 100%);
   color: #fff;
+}
+
+.site-footer::before {
+  content: "";
+  display: block;
+  height: 3px;
+  background: linear-gradient(90deg, rgba(var(--accent-rgb), 0.8), rgba(var(--ocean-rgb), 0.8));
+  margin-bottom: 30px;
 }
 
 .site-footer a {
@@ -1517,7 +1563,7 @@ img {
 .footer-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 30px;
+  gap: 22px;
 }
 
 .footer-title {
@@ -1528,6 +1574,23 @@ img {
 .footer-brand {
   font-family: "Fraunces", serif;
   font-size: 1.3rem;
+}
+
+.footer-card {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 18px;
+  padding: 18px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.footer-brand-block p {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.footer-keywords {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.68);
 }
 
 .footer-note {

@@ -1,6 +1,7 @@
 const toggle = document.querySelector('.nav-toggle');
 const nav = document.querySelector('.nav-links');
 const navPanelItems = document.querySelectorAll('.nav-item.has-panel');
+const isDesktopNav = window.matchMedia('(hover: hover) and (pointer: fine)');
 const closeNavPanels = () => {
   navPanelItems.forEach((item) => {
     item.classList.remove('is-open');
@@ -26,8 +27,27 @@ navPanelItems.forEach((item) => {
   button.addEventListener('click', (event) => {
     event.preventDefault();
     event.stopPropagation();
+    if (isDesktopNav.matches) {
+      return;
+    }
     const isOpen = item.classList.toggle('is-open');
     button.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  });
+});
+
+navPanelItems.forEach((item) => {
+  item.addEventListener('mouseenter', () => {
+    if (!isDesktopNav.matches) return;
+    item.classList.add('is-open');
+  });
+
+  item.addEventListener('mouseleave', () => {
+    if (!isDesktopNav.matches) return;
+    const button = item.querySelector('.nav-panel-toggle');
+    item.classList.remove('is-open');
+    if (button) {
+      button.setAttribute('aria-expanded', 'false');
+    }
   });
 });
 
