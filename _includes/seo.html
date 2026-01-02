@@ -1,0 +1,20 @@
+{% assign page_title = page.title | default: site.title %}
+{% assign page_desc = page.description | default: site.description %}
+{% assign canonical = page.url | absolute_url %}
+<title>{{ page_title }} | {{ site.title }}</title>
+<meta name="description" content="{{ page_desc | strip_html | strip_newlines | truncate: 160 }}">
+<link rel="canonical" href="{{ canonical }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_desc | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}"
+}
+</script>

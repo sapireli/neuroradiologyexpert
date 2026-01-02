@@ -1,0 +1,14 @@
+- label: Home
+  url: /
+- label: Services
+  url: /our-services/
+- label: About
+  url: /about-us/
+- label: Team
+  url: /team/
+- label: FAQ
+  url: /frequently-asked-questions/
+- label: Blog
+  url: /blog/
+- label: Contact
+  url: /contact-us/

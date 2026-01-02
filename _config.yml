@@ -1,0 +1,49 @@
+title: Neuro Radiology Expert
+email: info@neuroradiologyexpert.com
+description: Expert neuroradiology services for spine and brain imaging, medico-legal consulting, and clinical insights.
+url: "https://neuroradiologyexpert.com"
+baseurl: ""
+
+permalink: /blog/:slug/
+markdown: kramdown
+kramdown:
+  input: GFM
+
+collections:
+  services:
+    output: true
+    permalink: /our-services/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      permalink: /blog/:slug/
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: service
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+
+exclude:
+  - neuroradiologyexpert.com
+  - AGENTS.md
+  - content_inventory.csv
+  - sidequest.md
+  - redirect_inventory.txt
+  - master_plan.md
+  - url_parity.csv
+  - tmp-build
+  - _site
+  - _site-build
+  - _site-verify
+  - _site-output
+  - _site-final
+  - _site-final2

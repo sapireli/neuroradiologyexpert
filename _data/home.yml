@@ -1,0 +1,117 @@
+hero:
+  eyebrow: "Forensic + Clinical Neuroradiology"
+  title: "Precision imaging insight for high-stakes decisions."
+  lead: "Advanced neuroradiology analysis for attorneys, clinicians, and researchers who need clear, defensible answers."
+  pills:
+    - "Board-certified neuroradiologists"
+    - "Complimentary consultation"
+    - "24-48 hr turnaround"
+  primary:
+    label: "Schedule a consult"
+    url: "/contact-us/"
+  secondary:
+    label: "Explore services"
+    url: "/our-services/"
+
+intro:
+  title: "Our Forensic Traumatic Brain & Spine Injury Services"
+  text: "Our comprehensive forensic traumatic brain and spine injury service brings together forensic neuroradiology, forensic neuropsychology, and forensic neurology to deliver objective expertise for legal claims. Contact our specialists today for expert guidance to ensure accurate and reliable diagnoses that lead to unbiased and equitable justice."
+
+services_section:
+  title: "Service lines for complex neuro cases"
+  lead: "Specialized support for legal, clinical, and research teams."
+
+services:
+  - title: "Forensic Neuroradiology"
+    url: "/our-services/forensic-neuroradiology/"
+    image: "/wp-content/uploads/2024/12/7068-300x240.jpg"
+    description: "Independent imaging review and expert testimony for trauma and injury cases."
+  - title: "Forensic Neuropsychology"
+    url: "/our-services/forensic-neuropsychological-services/"
+    image: "/wp-content/uploads/2024/12/neuro-300x240.jpeg"
+    description: "Objective cognitive assessment aligned with neuroimaging findings."
+  - title: "Forensic Neurology"
+    url: "/our-services/forensic-neurology-services/"
+    image: "/wp-content/uploads/2024/12/perfusion-300x240.jpg"
+    description: "Neurologic evaluation and medical-legal interpretation for complex cases."
+  - title: "Clinical Neuroradiology"
+    url: "/our-services/clinical-neuroradiology-consulting/"
+    image: "/wp-content/uploads/2024/10/34589-300x240.jpg"
+    description: "Second opinions and protocol review for hospitals and clinics."
+  - title: "Research & Clinical Trials"
+    url: "/our-services/research-clinical-trial-consulting/"
+    image: "/wp-content/uploads/2024/12/neuro.jpeg"
+    description: "Imaging biomarkers, study design, and trial support."
+  - title: "Radiology Business Consulting"
+    url: "/our-services/radiology-business-consulting/"
+    image: "/wp-content/uploads/2024/12/2307.jpg"
+    description: "Operational strategy and growth planning for imaging practices."
+
+transformative:
+  title: "Transformative Neuroradiology Services"
+  image: "/wp-content/uploads/2024/10/pexels-googledeepmind-17483867.jpg"
+  paragraphs:
+    - "As a leading spine and brain imaging center, our neuroradiology services cater to a wide range of clients, from research centers and medical centers to professional attorneys needing expert neutral witnesses who understand the case's subject matter and provide without fear or favor witnesses. At Neuro Experts, PC, we excel in spine and brain imaging diagnostics to offer precise evaluation for conditions such as traumatic brain injury, spine injury, brain tumors, multiple sclerosis, and epilepsy."
+    - "From diagnosing complex neuroradiological conditions to offering results promptly, we take pride in delivering quality images and actionable insights for all our clients."
+
+why:
+  title: "Why choose us?"
+  summary: "Comprehensive, unbiased, and precise evaluation of a wide range of disorders such as traumatic brain injury, spine injury, brain tumors, multiple sclerosis, and epilepsy."
+  image: "/wp-content/uploads/2026/01/about-us-doctor-2026.png"
+  points:
+    - "Board-certified experts with extensive experience in medical imaging and clinical research consulting."
+    - "Comprehensive, unbiased interpretation across CT, PET, SPECT, MRI, DTI, functional MRI, MR perfusion, and MR spectroscopy, plus volumetric analysis (NeuroQuant, icometrix, etc.)."
+    - "Trusted and impartial California radiologist trauma, accident, and worker's compensation consulting and expert witness services."
+    - "Quick, 24-48 hour turnaround times for reports."
+    - "Complimentary initial consultation."
+
+process:
+  title: "How we work"
+  steps:
+    - title: "Intake + case scoping"
+      text: "We review your imaging goals, timeline, and context to define deliverables."
+    - title: "Expert review"
+      text: "Senior neuroradiologists conduct a rigorous, modality-specific analysis."
+    - title: "Clear reporting"
+      text: "We deliver concise findings, visuals, and recommendations tailored to your audience."
+    - title: "Ongoing support"
+      text: "Follow-up consults and testimony support to keep your team aligned."
+
+expertise:
+  title: "Expertise you can trust"
+  intro: "Our team isn't just skilled; they are dedicated to making complex imaging and consulting feel simple and approachable."
+  paragraphs:
+    - "Our team of neuroradiology experts have fellowship training and board certification from prestigious institutions like Harvard University, USC, and the American Board of Radiology. So, when you reach out to us, you get trusted and just medico-legal guidance without any discrepancies. From DTI and DBI analysis to other disorders like stroke, tumors, and spine trauma, our neuroradiology professionals can go beyond traditional diagnostic methods and offer a holistic understanding of the conditions at hand to support cases of malpractice or support individuals in getting fair compensation in injury/accident cases."
+    - "After thorough neuroradiological evaluations and compiling accurate reports, our experts also deliver unbiased, clear, and concise courtroom testimony to support the case. With years of experience in the field, we can present intricate medical evidence in understandable language so the jury and legal professionals can comprehend medical facts in criminal and civil cases."
+    - "To help researchers achieve breakthroughs in evidence-based medical evaluations, we offer neuroradiology research and clinical trial consulting services to combine advanced medical knowledge with clinical neurosciences. Backed by years of research experience in neuroradiology, our experts can aid research institutions studying disorders like epilepsy, dementia, AD/ADRD, cerebral small vessel ischemic diseases, stroke, TBI, spine trauma, and other neurodegenerative disorders."
+    - "With our understanding of technologies like fMRI, DTI, SPECT, MRI, CT, and PET, we can aid clinical researchers in assessing and diagnosing conditions related to the spine, brain, and nervous system. Our reliable professionals can ensure the reasonableness of the research hypothesis and plan, increasing the likelihood of securing grant funding and reaching the research project's specific aims."
+  areas:
+    - title: "Medical-legal consulting"
+      text: "Defensible imaging review and reporting for malpractice, injury, and disputed diagnostics."
+    - title: "Expert witness support"
+      text: "Clear, concise testimony and exhibits that help juries understand complex evidence."
+    - title: "Clinical research consulting"
+      text: "Evidence-based guidance for trials in epilepsy, dementia, stroke, TBI, and neurodegeneration."
+
+gallery:
+  title: "Gallery of our clinic"
+  images:
+    - "/wp-content/uploads/2024/12/brain-and-spine-mri-pictures-1.jpeg"
+    - "/wp-content/uploads/2024/12/dti-2.jpeg"
+    - "/wp-content/uploads/2024/12/34574.jpg"
+    - "/wp-content/uploads/2024/12/2307.jpg"
+
+team:
+  title: "Meet our team"
+  blurb: "At Neuro Experts, PC, we are proud to have a team of friendly, board-certified neuroradiology specialists and medical consultants who are passionate about what they do. With extensive experience in brain and spine imaging and medical-legal support, our experts are here to provide insightful, accurate, and compassionate services created just for you."
+  name: "Meet the full team"
+  role: "Board-certified neuroradiology, neurology, and neuropsychology specialists"
+  url: "/team/"
+  image: "/wp-content/uploads/2024/10/IMG_636029.jpg"
+
+contact:
+  title: "Contact Neuro Experts, PC Today"
+  text: "If you are looking for reliable neuroradiology services, expert medical-legal consulting, or a trusted partner for clinical research consulting, contact us today. We would be more than happy to help you out."
+  button:
+    label: "Contact our team"
+    url: "/contact-us/"

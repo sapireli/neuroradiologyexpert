@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<section class="hero hero-inner service-hero"{% if page.hero_image %} style="background-image: url('{{ page.hero_image }}');"{% endif %}>
+  <div class="service-hero-overlay"></div>
+  <div class="container">
+    <div class="eyebrow">Service</div>
+    <div class="breadcrumb">Home / Our Services / {{ page.title }}</div>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
+  </div>
+</section>
+{% if page.highlights %}
+<section class="section service-highlights">
+  <div class="container highlight-grid">
+    {% for item in page.highlights %}
+      <div class="highlight-card">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.text }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+<section class="section service-content">
+  <div class="container content-wrap service-article">
+    {% assign sections = content | split: '<h2' %}
+    {% if sections.size > 1 %}
+      {% if sections[0] != "" %}
+        <div class="service-intro">
+          {{ sections[0] }}
+        </div>
+      {% endif %}
+      {% for section in sections offset:1 %}
+        {% assign parts = section | split: '</h2>' %}
+        <section class="service-section">
+          <h2{{ parts[0] }}</h2>
+          {{ parts[1] }}
+        </section>
+      {% endfor %}
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </div>
+</section>
+{% include cta.html %}

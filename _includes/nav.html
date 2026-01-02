@@ -1,0 +1,19 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="/">Neuro Radiology Expert</a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle navigation">Menu</button>
+    <nav id="primary-nav" class="nav-links">
+      {% for item in site.data.navigation %}
+        <a href="{{ item.url }}">{{ item.label }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+  <div class="header-bar">
+    <div class="container header-bar-inner">
+      <span class="header-pill">Free initial consultation</span>
+      <span class="header-pill">Mon - Fri 8am - 6pm</span>
+      <a href="tel:+13105972626">+1 (310) 597-2626</a>
+      <a href="mailto:info@neuroexpertsgroup.com">info@neuroexpertsgroup.com</a>
+    </div>
+  </div>
+</header>

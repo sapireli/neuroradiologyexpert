@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<section class="hero hero-inner hero-compact">
+  <div class="container">
+    <div class="eyebrow">Services</div>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
+  </div>
+</section>
+<section class="section services-index">
+  <div class="container">
+    <div class="services-quicklist">
+      {% assign services = site.services | sort: "order" %}
+      {% for service in services %}
+        <a class="service-row" href="{{ service.url }}">
+          <div class="service-row-title">{{ service.title }}</div>
+          <div class="service-row-arrow">→</div>
+          {% if service.description %}<div class="service-row-desc">{{ service.description | strip_html }}</div>{% endif %}
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section class="section section-muted">
+  <div class="container content-wrap">
+    {{ content }}
+  </div>
+</section>
+{% include cta.html %}

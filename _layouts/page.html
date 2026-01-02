@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<section class="hero hero-inner">
+  <div class="container">
+    <div class="eyebrow">Neuro Radiology Expert</div>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
+  </div>
+</section>
+<section class="content">
+  <div class="container content-wrap">
+    {{ content }}
+  </div>
+</section>
+{% include cta.html %}
