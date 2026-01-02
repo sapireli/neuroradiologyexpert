@@ -2,10 +2,40 @@
   url: /
 - label: Services
   url: /our-services/
+- panel:
+    - title: "Forensic services"
+      links:
+        - label: "Forensic Neuroradiology"
+          url: /our-services/forensic-neuroradiology/
+          description: "Independent imaging review and expert testimony."
+        - label: "Forensic Neuropsychology"
+          url: /our-services/forensic-neuropsychological-services/
+          description: "Cognitive evaluation aligned with neuroimaging."
+        - label: "Forensic Neurology"
+          url: /our-services/forensic-neurology-services/
+          description: "Neurologic evaluation and causation analysis."
+    - title: "Clinical + research"
+      links:
+        - label: "Clinical Neuroradiology"
+          url: /our-services/clinical-neuroradiology-consulting/
+          description: "Second opinions and protocol review."
+        - label: "Research & Clinical Trials"
+          url: /our-services/research-clinical-trial-consulting/
+          description: "Imaging biomarkers and study design."
+        - label: "Radiology Business Consulting"
+          url: /our-services/radiology-business-consulting/
+          description: "Operational strategy and growth planning."
 - label: About
   url: /about-us/
-- label: Team
-  url: /team/
+- panel:
+    - title: "Company"
+      links:
+        - label: "About Us"
+          url: /about-us/
+          description: "Mission, values, and medical-legal focus."
+        - label: "Our Team"
+          url: /team/
+          description: "Meet our specialists and leadership."
 - label: FAQ
   url: /frequently-asked-questions/
 - label: Blog

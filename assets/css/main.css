@@ -131,10 +131,98 @@ img {
 .nav-links {
   display: flex;
   gap: 18px;
+  align-items: center;
 }
 
-.nav-links a {
+.nav-link {
   font-weight: 500;
+  color: var(--muted);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.nav-item {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.nav-panel-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid rgba(20, 20, 31, 0.12);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.7);
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.nav-panel-caret {
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+}
+
+.nav-panel {
+  position: absolute;
+  top: calc(100% + 16px);
+  left: 0;
+  min-width: 460px;
+  padding: 18px;
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 18px;
+  border: 1px solid rgba(20, 20, 31, 0.08);
+  box-shadow: 0 24px 60px rgba(18, 22, 30, 0.16);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 18px;
+  opacity: 0;
+  transform: translateY(10px);
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 10;
+}
+
+.nav-item:hover .nav-panel,
+.nav-item:focus-within .nav-panel,
+.nav-item.is-open .nav-panel {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.nav-panel-title {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  color: var(--muted);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.nav-panel-link {
+  display: grid;
+  gap: 4px;
+  padding: 8px 10px;
+  border-radius: 12px;
+  color: var(--ink);
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.nav-panel-link:hover {
+  background: rgba(var(--accent-rgb), 0.1);
+  color: var(--accent-dark);
+}
+
+.nav-panel-desc {
+  font-size: 0.82rem;
   color: var(--muted);
 }
 
@@ -791,6 +879,79 @@ img {
   box-shadow: 0 14px 28px rgba(20, 20, 31, 0.12);
 }
 
+.team-profile {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) 1fr;
+  gap: 28px;
+  padding: 28px;
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(20, 20, 31, 0.08);
+  box-shadow: var(--shadow-soft);
+  margin-bottom: 24px;
+}
+
+.team-profile:last-of-type {
+  margin-bottom: 0;
+}
+
+.team-profile-media {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+
+.team-profile-photo {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 18px;
+  box-shadow: 0 16px 32px rgba(20, 20, 31, 0.12);
+}
+
+.team-profile-contact {
+  background: var(--bg-alt);
+  border-radius: 14px;
+  padding: 12px 14px;
+  border: 1px solid rgba(20, 20, 31, 0.08);
+  display: grid;
+  gap: 6px;
+}
+
+.team-profile-label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.team-profile-contact a {
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+
+.team-profile-role {
+  color: var(--muted);
+  margin: 4px 0 12px;
+}
+
+.team-profile-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 16px 0;
+}
+
+.team-profile-meta h4 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.team-profile-body h4 {
+  margin-top: 18px;
+}
+
 .profile-details {
   border-top: 1px solid rgba(20, 20, 31, 0.08);
   padding-top: 10px;
@@ -1402,6 +1563,33 @@ img {
     display: inline-flex;
   }
 
+  .nav-item {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .nav-panel-toggle {
+    margin-left: 0;
+  }
+
+  .nav-panel {
+    position: static;
+    min-width: 0;
+    width: 100%;
+    box-shadow: none;
+    border-radius: 14px;
+    padding: 14px;
+    opacity: 1;
+    transform: none;
+    pointer-events: auto;
+    display: none;
+  }
+
+  .nav-item.is-open .nav-panel {
+    display: grid;
+  }
+
   .content-wrap {
     padding: 28px;
   }
@@ -1425,6 +1613,14 @@ img {
 @media (max-width: 900px) {
   .services-quicklist {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .team-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .team-profile-photo {
+    height: 260px;
   }
 }
 

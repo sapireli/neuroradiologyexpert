@@ -1,11 +1,35 @@
 const toggle = document.querySelector('.nav-toggle');
 const nav = document.querySelector('.nav-links');
+const navPanelItems = document.querySelectorAll('.nav-item.has-panel');
+const closeNavPanels = () => {
+  navPanelItems.forEach((item) => {
+    item.classList.remove('is-open');
+    const button = item.querySelector('.nav-panel-toggle');
+    if (button) {
+      button.setAttribute('aria-expanded', 'false');
+    }
+  });
+};
 if (toggle && nav) {
   toggle.addEventListener('click', () => {
     const isOpen = nav.classList.toggle('open');
     toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    if (!isOpen) {
+      closeNavPanels();
+    }
   });
 }
+
+navPanelItems.forEach((item) => {
+  const button = item.querySelector('.nav-panel-toggle');
+  if (!button) return;
+  button.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    const isOpen = item.classList.toggle('is-open');
+    button.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  });
+});
 
 document.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('is-loaded');
