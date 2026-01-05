@@ -34,10 +34,10 @@ Neuro Experts, PC delivers advanced brain and spine imaging interpretation for l
 ## How to choose the right service
 
 <ul class="list-check">
-  <li>Need medico-legal support, expert testimony, or causation analysis? Start with <a href="/our-services/forensic-neuroradiology/">Forensic Neuroradiology</a> or <a href="/our-services/forensic-neurology-services/">Forensic Neurology</a>.</li>
-  <li>Need a second opinion or complex diagnostic interpretation? Explore <a href="/our-services/clinical-neuroradiology-consulting/">Clinical Neuroradiology Consulting</a>.</li>
-  <li>Running a study or clinical trial? Connect with <a href="/our-services/research-clinical-trial-consulting/">Research &amp; Clinical Trial Consulting</a>.</li>
-  <li>Looking to scale operations or optimize workflows? Consider <a href="/our-services/radiology-business-consulting/">Radiology Business Consulting</a>.</li>
+  <li>Need medico-legal support, expert testimony, or causation analysis? Start with <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Forensic Neuroradiology</a> or <a href="{{ '/our-services/forensic-neurology-services/' | relative_url }}">Forensic Neurology</a>.</li>
+  <li>Need a second opinion or complex diagnostic interpretation? Explore <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Clinical Neuroradiology Consulting</a>.</li>
+  <li>Running a study or clinical trial? Connect with <a href="{{ '/our-services/research-clinical-trial-consulting/' | relative_url }}">Research &amp; Clinical Trial Consulting</a>.</li>
+  <li>Looking to scale operations or optimize workflows? Consider <a href="{{ '/our-services/radiology-business-consulting/' | relative_url }}">Radiology Business Consulting</a>.</li>
 </ul>
 
 <div class="split-block">
@@ -86,4 +86,4 @@ Neuro Experts, PC delivers advanced brain and spine imaging interpretation for l
 
 We offer a complimentary consultation to define the right service pathway for your case.
 
-[Schedule a consult](/contact-us/)
+[Schedule a consult]({{ '/contact-us/' | relative_url }})

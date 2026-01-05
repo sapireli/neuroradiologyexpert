@@ -5,7 +5,7 @@ date: 2025-02-11 06:39:10
 permalink: /blog/winning-personal-injury-cases-with-neuroradiology-expertise/
 description: "Unlock the power of neuroradiology in personal injury cases! Discover how it strengthens claims, links injuries to accidents & supports pain and suffering claims."
 ---
-*Do you know that in the United States, between 300,000 and 500,000 personal injury cases are filed every year?* Now that we have shed light on how common it is for someone to be injured, let’s talk about how to prove them. If you have ever been in a personal injury case, as a victim, lawyer, or even an interested bystander, you know that proving injuries isn’t always straightforward. Yes, broken bones show up clearly on X-rays, but what about Traumatic Brain Injuries (TBIs), whiplash, or nerve damage? That’s where neuroradiology comes in, and let us tell you, many attorneys seek [neuroradiology medical-legal consulting](/our-services/forensic-neuroradiology/) because it’s a game-changer in winning personal injury cases with unbiased outcomes.
+*Do you know that in the United States, between 300,000 and 500,000 personal injury cases are filed every year?* Now that we have shed light on how common it is for someone to be injured, let’s talk about how to prove them. If you have ever been in a personal injury case, as a victim, lawyer, or even an interested bystander, you know that proving injuries isn’t always straightforward. Yes, broken bones show up clearly on X-rays, but what about Traumatic Brain Injuries (TBIs), whiplash, or nerve damage? That’s where neuroradiology comes in, and let us tell you, many attorneys seek [neuroradiology medical-legal consulting]({{ '/our-services/forensic-neuroradiology/' | relative_url }}) because it’s a game-changer in winning personal injury cases with unbiased outcomes.
 
 *(Source: https://www.daveabels.com/blog/nationwide-personal-injury-statistics/)*
 
@@ -32,8 +32,8 @@ For instance, if an MRI shows fresh damage to the spine or brain that wasn’t t
 
 On the other hand, erroneous and misleading interpretations of brain imaging by radiologists and neuroradiologists without expertise in TBI imaging are common.  A TBI expert neuroradiologist can refute these inaccurate claims and educate the jury about the correct interpretation of Brain imaging.
 
-Need neuroradiology medical-legal consulting services? Reach out to our team at [Neuro Experts](/) today!
+Need neuroradiology medical-legal consulting services? Reach out to our team at [Neuro Experts]({{ '/' | relative_url }}) today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

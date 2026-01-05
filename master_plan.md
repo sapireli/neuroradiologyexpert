@@ -10,7 +10,7 @@
 - Core pages: `//`, `/about-us/`, `/contact-us/`, `/frequently-asked-questions/`.
 - Services: `/our-services/` plus 6 service detail pages under `our-services/`.
 - Blog: 25+ post slugs under `blog/` with `/` pages; additional archive/index pages exist under `blog/2020/`, `blog/2021/`, `blog/2024/`, `blog/2025/`.
-- Media: WordPress assets in `wp-content/uploads/` and theme assets in `wp-content/themes/`.
+- Media: Jekyll assets under `assets/images/` and `assets/files/`.
 
 ## Master Checklist
 ### 1) Discovery + Content Audit
@@ -46,7 +46,7 @@
 - [x] Convert service detail pages from HTML to Markdown (preserve headings and links).
 - [x] Convert services index (legacy 410 page required new content).
 - [x] Convert blog posts to `_posts/YYYY-MM-DD-slug.md` with front matter.
-- [x] Mirror `wp-content/uploads/` locally and update image references to local paths.
+- [x] Mirror legacy media into `assets/images/` and update image references to local paths.
 - [x] Convert About page with full legacy content.
 - [x] Convert FAQ page with full legacy content.
 - [x] Convert Contact page with full legacy content.

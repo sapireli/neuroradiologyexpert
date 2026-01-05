@@ -8,17 +8,19 @@ permalink: /blog/team-member/saman-hazany/
 
 <div class="split-block">
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/IMG_636029.jpg" alt="Saman Hazany MD, DABR">
+    <img src="{{ '/assets/images/IMG_636029.jpg' | relative_url }}" alt="Saman Hazany MD, DABR">
   </div>
   <div>
-    <p>Saman Hazany, MD, DABR is a Harvard-trained, board-certified neuroradiologist and founder of Neuro Experts, PC. He specializes in traumatic brain and spine injury imaging, including advanced modalities such as Diffusion Tensor Imaging (DTI), and provides expert medical-legal consultation for complex cases.</p>
+    <p>Award-winning, Harvard Trained Traumatic Brain and Spine Injury Imaging Expert and Chief of Neuroradiology at the Greater Los Angeles VA Healthcare System. Academic appointments at major academic centers (UCLA and USC) with a focus on Diffusion Tensor Imaging (DTI) in concussion/mild TBI. Board and Certificate of Added Qualification (CAQ) in radiology and neuroradiology.</p>
+    <p>Extensive experience in the care of patients with traumatic brain and spine injury, stroke, epilepsy, and brain tumors. 18+ years of experience. Extensive teaching and research leadership experience at USC (2012- present) and UCLA (2019 &ndash; present).</p>
+    <p>Former Radiology department Chair and Director of Neuroradiology at Rancho Los Amigos National Rehabilitation Center (2012-2018). CEO and chief neuroradiology expert witness at Neuro Experts, PC (2018-present), contributing to clinical care and medicolegal issues of numerous patients with neurological disorders. Frequent presenter and invited lecturer in neuroradiology and traumatic brain injury.</p>
     <div class="callout">Board and CAQ certified in radiology and neuroradiology.</div>
     <ul class="list-check">
       <li><strong>Specialty:</strong> Radiology &amp; Neuroradiology</li>
       <li><strong>Degree:</strong> MD</li>
       <li><strong>Focus:</strong> TBI imaging, DTI analysis, and medico-legal interpretation</li>
     </ul>
-    <a class="text-link" href="/contact-us/">Schedule a consultation</a>
+    <a class="text-link" href="{{ '/contact-us/' | relative_url }}">Schedule a consultation</a>
   </div>
 </div>
 
@@ -58,4 +60,4 @@ permalink: /blog/team-member/saman-hazany/
 
 ## Work with Dr. Hazany
 
-If your case requires a clear, defensible neuroradiology opinion, our team can help. [Contact Neuro Experts](/contact-us/) to schedule an initial consultation.
+If your case requires a clear, defensible neuroradiology opinion, our team can help. [Contact Neuro Experts]({{ '/contact-us/' | relative_url }}) to schedule an initial consultation.

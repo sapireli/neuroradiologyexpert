@@ -5,7 +5,7 @@ date: 2025-02-24 06:01:54
 permalink: /blog/neuroradiology-consulting-for-brain-spine-treatment/
 description: "Revolutionize brain & spine treatment with cutting-edge neuroradiology consulting. Our experts provide precise imaging analysis for informed clinical decisions."
 ---
-In the field of neurology, neurosurgery, and spine care, precision is everything. When someone is diagnosing and treating complex brain and spine disorders, having a clear, detailed understanding of neurological imaging is imperative for accurate and informed clinical decisions. This is where [clinical neuroradiology consulting](/our-services/clinical-neuroradiology-consulting/) can immensely help.
+In the field of neurology, neurosurgery, and spine care, precision is everything. When someone is diagnosing and treating complex brain and spine disorders, having a clear, detailed understanding of neurological imaging is imperative for accurate and informed clinical decisions. This is where [clinical neuroradiology consulting]({{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}) can immensely help.
 
 ## Table of contents
 
@@ -54,8 +54,8 @@ With advancements in neuroradiology, and techniques like AI-driven imaging analy
 
 ## Conclusion
 
-By [collaborating with neuroradiologists](/contact-us/), healthcare teams can ensure they are making data-driven, well-informed decisions that enhance patient care and optimize treatment strategies. In addition to improving patient outcomes, clinical neuroradiology consulting can also be immensely beneficial in supporting research progression. Researchers can also use them to improve the accuracy of their research procedures and detect any anomalies or problems in case of medical malpractice.
+By [collaborating with neuroradiologists]({{ '/contact-us/' | relative_url }}), healthcare teams can ensure they are making data-driven, well-informed decisions that enhance patient care and optimize treatment strategies. In addition to improving patient outcomes, clinical neuroradiology consulting can also be immensely beneficial in supporting research progression. Researchers can also use them to improve the accuracy of their research procedures and detect any anomalies or problems in case of medical malpractice.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

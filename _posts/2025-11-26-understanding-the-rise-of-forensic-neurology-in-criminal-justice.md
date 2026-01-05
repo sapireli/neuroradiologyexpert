@@ -44,8 +44,8 @@ For instance, a traumatic brain injury (TBI) might explain sudden aggression or 
 ## Conclusion
 Forensic neurology is more than a medical marvel; it’s a mirror reflecting how deeply unbiased the justice system can become. By looking inside the brain, we are not just decoding crime; we are rediscovering compassion, fairness, and the complex link between mind and morality. As science continues to unfold the mysteries of the brain, one thing’s for sure: the courtroom of the future might look less like a battle of words and more like a conversation between law and neurons.
 
-Looking for a forensic neurologist or a reliable and unbiased neurologist expert witness? Reach out to [our team at Neuro Experts, PC](/about-us/) today!
+Looking for a forensic neurologist or a reliable and unbiased neurologist expert witness? Reach out to [our team at Neuro Experts, PC]({{ '/about-us/' | relative_url }}) today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need neurological causation analysis or expert testimony? <a href="/our-services/forensic-neurology-services/">Explore Forensic neurology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need neurological causation analysis or expert testimony? <a href="{{ '/our-services/forensic-neurology-services/' | relative_url }}">Explore Forensic neurology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

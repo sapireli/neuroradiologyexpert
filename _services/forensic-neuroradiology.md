@@ -4,8 +4,8 @@ title: "Forensic Neuroradiology"
 slug: forensic-neuroradiology
 order: 4
 description: "Get expert forensic neuroradiology services from certified neuroradiologists. Our neuroscience expert witness services provide medico-legal support for cases involving neurological disorders."
-hero_image: "/wp-content/uploads/2025/01/vecteezy_justice-and-law-concept-male-judge-in-a-courtroom-on-wooden_11338757-scaled.jpg"
-card_image: "/wp-content/uploads/2024/12/7068-300x240.jpg"
+hero_image: "/assets/images/vecteezy_justice-and-law-concept-male-judge-in-a-courtroom-on-wooden_11338757-scaled.jpg"
+card_image: "/assets/images/7068.jpg"
 highlights:
   - title: "Independent imaging review"
     text: "Objective analysis for trauma, malpractice, and disputed neuro findings."
@@ -18,14 +18,14 @@ highlights:
 
 <div class="split-block">
   <div>
-    <p>When medical and legal worlds intersect, precise and credible expertise becomes the need of the hour. This is why <a href="/about-us/">our professionals</a> offer unparalleled support in cases requiring forensic neuroradiology services. With our extensive background in radiology and neuroscience, we bridge the gap between complex medical data and legal clarity so attorneys can get clear insights in cases involving medical malpractice, diagnosis of the nervous system, or accurate data from imaging techniques.</p>
+    <p>When medical and legal worlds intersect, precise and credible expertise becomes the need of the hour. This is why <a href="{{ '/about-us/' | relative_url }}">our professionals</a> offer unparalleled support in cases requiring forensic neuroradiology services. With our extensive background in radiology and neuroscience, we bridge the gap between complex medical data and legal clarity so attorneys can get clear insights in cases involving medical malpractice, diagnosis of the nervous system, or accurate data from imaging techniques.</p>
     <p>Our consulting services are led by radiology expert witnesses and neuroscience experts with years of experience in diagnosing and interpreting neurological and musculoskeletal conditions. Whether we are talking about Diffusion Tensor Imaging, traumatic brain injury, or complex cases involving movement disorders, our neuroradiology expert witnesses deliver clear, concise, and authoritative opinions to fortify your legal strategy.</p>
     <div class="callout">Clear, defensible imaging interpretation that strengthens legal strategy without bias.</div>
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2025/01/vecteezy_justice-and-law-concept-male-judge-in-a-courtroom-on-wooden_11338757-scaled.jpg" alt="Medical consulting for legal clarity">
-      <img src="/wp-content/uploads/2024/12/neuroradiologist-expert-witnesses.jpg" alt="Neuroradiology expert witness">
+      <img src="{{ '/assets/images/vecteezy_justice-and-law-concept-male-judge-in-a-courtroom-on-wooden_11338757-scaled.jpg' | relative_url }}" alt="Medical consulting for legal clarity">
+      <img src="{{ '/assets/images/neuroradiologist-expert-witnesses.jpg' | relative_url }}" alt="Neuroradiology expert witness">
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ highlights:
     </ul>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/pexels-shvetsa-4226264.jpg" alt="DTI neuroimaging">
+    <img src="{{ '/assets/images/pexels-shvetsa-4226264.jpg' | relative_url }}" alt="DTI neuroimaging">
   </div>
 </div>
 
@@ -51,32 +51,32 @@ highlights:
 
 <div class="service-subgrid">
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/pexels-shvetsa-4226264.jpg" alt="DTI Neuroimaging">
+    <img src="{{ '/assets/images/pexels-shvetsa-4226264.jpg' | relative_url }}" alt="DTI Neuroimaging">
     <h3>DTI Neuroimaging</h3>
     <p>Diffusion Tensor Imaging (DTI) interpretation determines the integrity of white matter tracts by measuring water diffusion within these pathways.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/pexels-cottonbro-5723883.jpg" alt="White Matter Imaging">
+    <img src="{{ '/assets/images/pexels-cottonbro-5723883.jpg' | relative_url }}" alt="White Matter Imaging">
     <h3>White Matter Imaging</h3>
     <p>DTI provides insight into white matter integrity and anatomy, essential for evaluating traumatic brain injury and brain tumors.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/F3.large_.jpg" alt="Detection of Traumatic Axonal Injury">
+    <img src="{{ '/assets/images/F3.large_.jpg' | relative_url }}" alt="Detection of Traumatic Axonal Injury">
     <h3>Detection of Traumatic Axonal Injury</h3>
     <p>DTI and Susceptibility Weighted Imaging (SWI) help identify traumatic axonal injuries where brain connectivity is damaged.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/Comprehensive-Mapping-of-Fiber-Tracts.png" alt="Comprehensive Mapping of Fiber Tracts">
+    <img src="{{ '/assets/images/Comprehensive-Mapping-of-Fiber-Tracts.png' | relative_url }}" alt="Comprehensive Mapping of Fiber Tracts">
     <h3>Comprehensive Mapping of Fiber Tracts</h3>
     <p>DTI and tractography create detailed maps of fiber tracts to document injury patterns and clinical impact.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/01/OIP.jpg" alt="Precision in Image-Guided Procedures">
+    <img src="{{ '/assets/images/OIP.jpg' | relative_url }}" alt="Precision in Image-Guided Procedures">
     <h3>Precision in Image-Guided Procedures</h3>
     <p>DTI MRI radiology can guide neurosurgical procedures such as tumor resection or deep brain stimulator placement.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2020/04/DTIimagefromTBI4thedditionchapter12.png" alt="Advanced Clinical Research Opportunities">
+    <img src="{{ '/assets/images/DTIimagefromTBI4thedditionchapter12.png' | relative_url }}" alt="Advanced Clinical Research Opportunities">
     <h3>Advanced Clinical Research Opportunities</h3>
     <p>DTI in TBI opens new doors for clinical research by assessing changes in water diffusion and mapping neural networks.</p>
   </div>
@@ -90,8 +90,8 @@ highlights:
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2024/10/Neuroscience.jpg" alt="Neuroscience and neurological disorders">
-      <img src="/wp-content/uploads/2024/10/image4.png" alt="Perfusion imaging">
+      <img src="{{ '/assets/images/Neuroscience.jpg' | relative_url }}" alt="Neuroscience and neurological disorders">
+      <img src="{{ '/assets/images/image4.png' | relative_url }}" alt="Perfusion imaging">
     </div>
   </div>
 </div>
@@ -105,7 +105,7 @@ highlights:
 <p>Our neuroradiologists and radiology expert witnesses deliver unbiased, clear, and concise courtroom testimony. We present complex medical evidence in understandable language, helping the jury and legal professionals grasp the medical facts. With a reputation for credibility and precision, testimonies from our neuroradiology expert witnesses can clarify the validity and merit of civil and criminal cases.</p>
 
 <div class="media-grid">
-  <img src="/wp-content/uploads/2024/10/neruo.jpg" alt="Why neuroradiology">
+  <img src="{{ '/assets/images/neruo.jpg' | relative_url }}" alt="Why neuroradiology">
 </div>
 
 ## Forensic Neuroradiology for Imaging-Related Malpractice
@@ -115,7 +115,7 @@ highlights:
     <p>Our forensic neuroradiology services support cases where incorrect or delayed diagnoses cause obstruction of justice. We review imaging protocols, interpret results, and identify deviations from standard medical practices that may have led to patient harm. With a focus on MRI, CT scans, and other imaging modalities, our neuroradiology expert witnesses deliver objective and evidence-based opinions to complement legal investigations.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/pexels-tima-miroshnichenko-6011611.jpg" alt="Imaging-related malpractice review">
+    <img src="{{ '/assets/images/pexels-tima-miroshnichenko-6011611.jpg' | relative_url }}" alt="Imaging-related malpractice review">
   </div>
 </div>
 
@@ -127,7 +127,7 @@ highlights:
     <p>Forensic neuroradiology is essential for ensuring justice, combining medical expertise with legal insights to support unbiased, fair, and informed decision-making in complex cases.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/pexels-shvetsa-4226123-1024x682.jpg" alt="Significance of forensic neuroradiology">
+    <img src="{{ '/assets/images/pexels-shvetsa-4226123-1024x682.jpg' | relative_url }}" alt="Significance of forensic neuroradiology">
   </div>
 </div>
 
@@ -144,9 +144,9 @@ highlights:
 ## Related services
 
 <ul class="list-check">
-  <li><a href="/our-services/forensic-neuropsychological-services/">Forensic Neuropsychological Services</a></li>
-  <li><a href="/our-services/forensic-neurology-services/">Forensic Neurology Services</a></li>
-  <li><a href="/our-services/clinical-neuroradiology-consulting/">Clinical Neuroradiology Consulting</a></li>
+  <li><a href="{{ '/our-services/forensic-neuropsychological-services/' | relative_url }}">Forensic Neuropsychological Services</a></li>
+  <li><a href="{{ '/our-services/forensic-neurology-services/' | relative_url }}">Forensic Neurology Services</a></li>
+  <li><a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Clinical Neuroradiology Consulting</a></li>
 </ul>
 
-Need more information, or want to <a href="/contact-us/">schedule a consultation</a>? We are just a call away!
+Need more information, or want to <a href="{{ '/contact-us/' | relative_url }}">schedule a consultation</a>? We are just a call away!

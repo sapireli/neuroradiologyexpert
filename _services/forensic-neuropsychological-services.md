@@ -4,8 +4,8 @@ title: "Forensic Neuropsychological Services"
 slug: forensic-neuropsychological-services
 order: 3
 description: "Get objective, board-certified insights on TBI & neurological injury. Our forensic neuropsychologists offer rigorous capacity evaluations. Contact us for a consultation."
-hero_image: "/wp-content/uploads/2025/11/forensic-brain-mri-analysis.jpg"
-card_image: "/wp-content/uploads/2024/12/neuro-300x240.jpeg"
+hero_image: "/assets/images/forensic-brain-mri-analysis.jpg"
+card_image: "/assets/images/neuro.jpeg"
 highlights:
   - title: "Objective neuropsych testing"
     text: "Evidence-based assessment aligned with advanced imaging."
@@ -18,14 +18,14 @@ highlights:
 
 <div class="split-block">
   <div>
-    <p>When neurological evidence, expert opinion, and credible testimony become necessary, <a href="/about-us/">partnering with qualified specialists</a> makes all the difference. Our forensic neuropsychology services bridge the gap between complex neuroscience and courtroom litigations or medico-legal consultations, providing credible clarity to all stakeholders.</p>
+    <p>When neurological evidence, expert opinion, and credible testimony become necessary, <a href="{{ '/about-us/' | relative_url }}">partnering with qualified specialists</a> makes all the difference. Our forensic neuropsychology services bridge the gap between complex neuroscience and courtroom litigations or medico-legal consultations, providing credible clarity to all stakeholders.</p>
     <p>We provide clear, evidence-based answers for legal and medical cases through a comprehensive, three-step assessment. This process integrates advanced brain imaging (MRI/fMRI), validated neuropsychological testing, and a thorough review of all historical records. Our state-of-the-art technology and clinical rigor provide the unbiased, comprehensive clarity needed in legal and medico-legal matters.</p>
     <div class="callout">Our three-step assessment combines imaging, testing, and record review to deliver court-ready clarity.</div>
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2025/11/forensic-brain-mri-analysis.jpg" alt="Brain imaging report review">
-      <img src="/wp-content/uploads/2025/11/expert-consultation-brain-scan.jpg" alt="Expert consultation on brain imaging">
+      <img src="{{ '/assets/images/forensic-brain-mri-analysis.jpg' | relative_url }}" alt="Brain imaging report review">
+      <img src="{{ '/assets/images/expert-consultation-brain-scan.jpg' | relative_url }}" alt="Expert consultation on brain imaging">
     </div>
   </div>
 </div>
@@ -46,22 +46,22 @@ highlights:
 
 <div class="service-subgrid">
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/11/legal-medical-claims.png" alt="Medical evidence and legal claims">
+    <img src="{{ '/assets/images/legal-medical-claims.png' | relative_url }}" alt="Medical evidence and legal claims">
     <h3>Legal & Administrative Claims</h3>
     <p>Personal injury, workers' compensation, medical malpractice, and long-term disability determinations.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/11/medical-team-assessing-capacity.jpg" alt="Capacity evaluations">
+    <img src="{{ '/assets/images/medical-team-assessing-capacity.jpg' | relative_url }}" alt="Capacity evaluations">
     <h3>Capacity Evaluations</h3>
     <p>Evaluations for testamentary capacity (wills/trusts), decisional capacity, and return-to-work.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/11/neurological-condition-diagnosis.jpg" alt="Clinical focus">
+    <img src="{{ '/assets/images/neurological-condition-diagnosis.jpg' | relative_url }}" alt="Clinical focus">
     <h3>Clinical Focus</h3>
     <p>Cases involving traumatic brain injury (TBI) and other neurological conditions affecting behavior, emotional state, and decision-making.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/11/civil-criminal-legal-evaluations.jpg" alt="Civil and criminal legal cases">
+    <img src="{{ '/assets/images/civil-criminal-legal-evaluations.jpg' | relative_url }}" alt="Civil and criminal legal cases">
     <h3>Civil & Criminal Legal Cases</h3>
     <p>Evaluations for personal injury, medical malpractice, competency, insanity defense, and capital mitigation.</p>
   </div>
@@ -128,14 +128,14 @@ highlights:
 </div>
 
 <div class="media-grid">
-  <img src="/wp-content/uploads/2025/11/neuropsychology-expert-team-1024x683.jpg" alt="Neuropsychology expert team">
+  <img src="{{ '/assets/images/neuropsychology-expert-team-1024x683.jpg' | relative_url }}" alt="Neuropsychology expert team">
 </div>
 
 ## Why Choose Us?
 
 <div class="split-block">
   <div>
-    <p>We deliver scientifically rigorous, thoroughly documented assessments trusted by professionals across the legal and healthcare sectors. <a href="/about-us/">Our team of highly skilled and experienced neuropsychologists</a> bring specialized expertise to every case, combining clinical precision with legal acumen to support complex litigation or consultative requirements.</p>
+    <p>We deliver scientifically rigorous, thoroughly documented assessments trusted by professionals across the legal and healthcare sectors. <a href="{{ '/about-us/' | relative_url }}">Our team of highly skilled and experienced neuropsychologists</a> bring specialized expertise to every case, combining clinical precision with legal acumen to support complex litigation or consultative requirements.</p>
     <ul class="list-check">
       <li>Timely reports, thorough documentation, and reliable communication.</li>
       <li>End-to-end forensic services, from initial case evaluation through deposition and trial support.</li>
@@ -143,13 +143,13 @@ highlights:
     </ul>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2025/11/book-appointment-forensic-neuropsychology.jpg" alt="Book appointment for forensic neuropsychology">
+    <img src="{{ '/assets/images/book-appointment-forensic-neuropsychology.jpg' | relative_url }}" alt="Book appointment for forensic neuropsychology">
   </div>
 </div>
 
 ## Book an Appointment Now!
 
-<p>Need an expert evaluation? Let our forensic neuropsychologists help. <a href="/contact-us/">Contact us</a> to book your appointment and get started.</p>
+<p>Need an expert evaluation? Let our forensic neuropsychologists help. <a href="{{ '/contact-us/' | relative_url }}">Contact us</a> to book your appointment and get started.</p>
 
 ## FAQ
 
@@ -181,7 +181,7 @@ highlights:
   <details>
     <summary>What types of cases require forensic neuropsychology?</summary>
     <div class="faq-answer">
-      <p>Please <a href="/contact-us/">get in touch with us</a> to discuss your specific situations.</p>
+      <p>Please <a href="{{ '/contact-us/' | relative_url }}">get in touch with us</a> to discuss your specific situations.</p>
       <p>Forensic neuropsychology is relevant in any legal matter where cognitive, emotional, or behavioral functioning is in question.</p>
       <ul>
         <li><strong>Personal Injury Claims</strong> - evaluation of cognitive, emotional, or behavioral effects following head injury, concussion, or trauma.</li>
@@ -238,7 +238,7 @@ highlights:
 ## Related services
 
 <ul class="list-check">
-  <li><a href="/our-services/forensic-neuroradiology/">Forensic Neuroradiology Services</a></li>
-  <li><a href="/our-services/forensic-neurology-services/">Forensic Neurology Services</a></li>
-  <li><a href="/our-services/clinical-neuroradiology-consulting/">Clinical Neuroradiology Consulting</a></li>
+  <li><a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Forensic Neuroradiology Services</a></li>
+  <li><a href="{{ '/our-services/forensic-neurology-services/' | relative_url }}">Forensic Neurology Services</a></li>
+  <li><a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Clinical Neuroradiology Consulting</a></li>
 </ul>

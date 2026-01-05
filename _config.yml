@@ -1,8 +1,8 @@
 title: Neuro Radiology Expert
 email: info@neuroradiologyexpert.com
 description: Expert neuroradiology services for spine and brain imaging, medico-legal consulting, and clinical insights.
-url: "https://neuroradiologyexpert.com"
-baseurl: ""
+url: "https://sapireli.github.io"
+baseurl: "/neuroradiologyexpert"
 
 permalink: /blog/:slug/
 markdown: kramdown
@@ -33,6 +33,7 @@ plugins:
   - jekyll-redirect-from
 
 exclude:
+  - wp-content
   - neuroradiologyexpert.com
   - AGENTS.md
   - content_inventory.csv

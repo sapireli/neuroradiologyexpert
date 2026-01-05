@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://neuroradiologyexpert.com/sitemap.xml

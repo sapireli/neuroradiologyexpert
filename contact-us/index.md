@@ -28,7 +28,7 @@ permalink: /contact-us/
     </div>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/12/handshake-4002834_1920.jpg" alt="Contact Neuro Experts">
+    <img src="{{ '/assets/images/handshake-4002834_1920.jpg' | relative_url }}" alt="Contact Neuro Experts">
   </div>
 </div>
 
