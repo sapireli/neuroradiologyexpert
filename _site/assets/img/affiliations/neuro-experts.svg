@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="84" viewBox="0 0 260 84" role="img" aria-label="Neuro Experts logo">
-  <rect width="260" height="84" rx="18" fill="#ffffff" stroke="#e4dbd3" />
-  <rect x="12" y="12" width="60" height="60" rx="16" fill="#b0664b" />
-  <text x="42" y="42" text-anchor="middle" dominant-baseline="middle" font-family="Fraunces, serif" font-size="19" font-weight="600" fill="#ffffff">NE</text>
-  <text x="84" y="38" font-family="Space Grotesk, Arial, sans-serif" font-size="16" font-weight="600" fill="#1b1d21" dominant-baseline="middle">Neuro Experts</text>
-  <text x="84" y="60" font-family="Space Grotesk, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#5a6470" dominant-baseline="middle">PC</text>
-</svg>
