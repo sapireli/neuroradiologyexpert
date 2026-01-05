@@ -123,4 +123,4 @@ Below are quick, clear answers to the questions we hear most from patients, atto
   </details>
 </div>
 
-<div class="callout">Need more detail? <a href="{{ '/contact-us/' | relative_url }}">Contact us</a> for a consultation and we will guide you to the right expert.</div>
+<div class="callout">Need more detail? <a href="/contact-us/">Contact us</a> for a consultation and we will guide you to the right expert.</div>

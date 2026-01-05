@@ -10,5 +10,5 @@ Yes! Nutritional status can be optimized in both pediatric and adult TBI populat
 [Learn More](https://www.mdpi.com/2483410)
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

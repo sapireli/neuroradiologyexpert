@@ -5,7 +5,7 @@ date: 2025-04-25 12:48:22
 permalink: /blog/when-do-attorneys-hire-a-neuroradiologist-expert-witness-for-a-case/
 description: "Discover when attorneys hire neuroradiology expert witnesses in traumatic brain injury, medical malpractice, and more. Get expert opinions and witness services from Neuro Experts."
 ---
-In legal cases involving the brain, spine, or the CNS (Central Nervous System), the facts aren’t always visible to the naked eye. For example, a person sues someone for damages after a car accident, claiming that the victim has suffered a traumatic brain injury. The defense says the scans are normal, and the plaintiff’s symptoms are exaggerated. Both sides have medical records, but the jury has no idea what they are looking at, and neither do the attorneys. Who steps in there to make sense of it all? That’s where a [neuroscience expert witness can step in]({{ '/blog/winning-personal-injury-cases-with-neuroradiology-expertise/' | relative_url }}) with their impartial opinion. So, when exactly does a lawyer decide to bring a seasoned neuroradiologist witness into the picture? Let’s break it down!
+In legal cases involving the brain, spine, or the CNS (Central Nervous System), the facts aren’t always visible to the naked eye. For example, a person sues someone for damages after a car accident, claiming that the victim has suffered a traumatic brain injury. The defense says the scans are normal, and the plaintiff’s symptoms are exaggerated. Both sides have medical records, but the jury has no idea what they are looking at, and neither do the attorneys. Who steps in there to make sense of it all? That’s where a [neuroscience expert witness can step in](/blog/winning-personal-injury-cases-with-neuroradiology-expertise/) with their impartial opinion. So, when exactly does a lawyer decide to bring a seasoned neuroradiologist witness into the picture? Let’s break it down!
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ In legal cases involving the brain, spine, or the CNS (Central Nervous System), 
 
 ## #1 Traumatic Brain Injury (TBI) Cases
 
-This is one of the most common situations where a [neuroradiology expert witness]({{ '/our-services/forensic-neuroradiology/' | relative_url }}) is incredibly essential. When someone claims they have suffered a TBI after an accident, whether it’s a car crash, a fall, or a sports injury, the neuroradiologist can examine the brain scans and determine if there’s evidence to support the claim. As professionals, they identify signs of injury that may not be obvious, like micro-hemorrhages or diffuse axonal injury, and explain their findings in a way the jury can understand.
+This is one of the most common situations where a [neuroradiology expert witness](/our-services/forensic-neuroradiology/) is incredibly essential. When someone claims they have suffered a TBI after an accident, whether it’s a car crash, a fall, or a sports injury, the neuroradiologist can examine the brain scans and determine if there’s evidence to support the claim. As professionals, they identify signs of injury that may not be obvious, like micro-hemorrhages or diffuse axonal injury, and explain their findings in a way the jury can understand.
 
 ## #2 Medical Malpractice Lawsuits
 
@@ -38,8 +38,8 @@ In rare but complex cases involving exposure to harmful substances, such as lead
 
 ## Final Thoughts
 
-In short, attorneys can turn to neuroradiology expert witnesses when the truth is buried in medical imaging, and the truth needs to be made crystal clear in the courtroom. Whether it’s a subtle brain injury or a missed diagnosis, their unbiased ability to interpret and explain those findings can be a major turning point in the case. Looking for neuroradiology experts who can provide witness services? Contact the team at [Neuro Experts]({{ '/' | relative_url }}) today!
+In short, attorneys can turn to neuroradiology expert witnesses when the truth is buried in medical imaging, and the truth needs to be made crystal clear in the courtroom. Whether it’s a subtle brain injury or a missed diagnosis, their unbiased ability to interpret and explain those findings can be a major turning point in the case. Looking for neuroradiology experts who can provide witness services? Contact the team at [Neuro Experts](/) today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

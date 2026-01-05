@@ -5,7 +5,7 @@ date: 2025-12-01 10:15:25
 permalink: /blog/how-neuro-experts-are-revolutionizing-forensic-tbi-analysis/
 description: "Explore multi-layer forensic TBI analysis using MRI, DTI, and neuropsychological tests. Uncover what standard scans miss. Click to read."
 ---
-If you have ever wondered how doctors and scientists uncover what really happens inside the brain after a traumatic brain injury (TBI), you are about to be amazed. The brain is a beautifully complex organ, and when it suffers trauma- whether from an accident, a fall, or a blast- understanding the full impact isn’t as simple as a scan or test. That’s where [Neuro Experts]({{ '/' | relative_url }}) step in with their comprehensive approach to forensic TBI neuroimaging, which combines advanced science, expert insight, and technology to uncover the hidden truths behind brain injuries.
+If you have ever wondered how doctors and scientists uncover what really happens inside the brain after a traumatic brain injury (TBI), you are about to be amazed. The brain is a beautifully complex organ, and when it suffers trauma- whether from an accident, a fall, or a blast- understanding the full impact isn’t as simple as a scan or test. That’s where [Neuro Experts](/) step in with their comprehensive approach to forensic TBI neuroimaging, which combines advanced science, expert insight, and technology to uncover the hidden truths behind brain injuries.
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ Neuro Experts bridge that gap through a layered evaluation process that combines
 | EEG analysis | Measures brainwave activity | Seizures, sleep abnormalities, or slowed brain function |
 | Neuroradiology / neuroimaging | Visualizes structural and functional changes | Brain damage, atrophy, or connectivity issues |
 
-Each layer of clinical neurological assessment adds another piece to the puzzle, which paints a fuller picture of how the injury has affected the brain and its functions. In fact, one of the most fascinating advancements in this field is [Diffusion Tensor Imaging for TBI]({{ '/blog/diffusion-tensor-imaging-dti-in-mild-traumatic-brain-injury-mtbi/' | relative_url }}), which is a specialized MRI technique for mapping the brain’s white matter pathways.
+Each layer of clinical neurological assessment adds another piece to the puzzle, which paints a fuller picture of how the injury has affected the brain and its functions. In fact, one of the most fascinating advancements in this field is [Diffusion Tensor Imaging for TBI](/blog/diffusion-tensor-imaging-dti-in-mild-traumatic-brain-injury-mtbi/), which is a specialized MRI technique for mapping the brain’s white matter pathways.
 
 ### The Science Behind the Diagnosis
 
@@ -33,8 +33,8 @@ Each layer of clinical neurological assessment adds another piece to the puzzle,
 This high level of precision doesn’t just support clinical care; it also provides clarity in the courtroom. Whether it’s about verifying the extent of the injury or establishing causation, Neuro Experts combine technology and expertise to ensure that every assessment is backed by science and supported by data.
 
 ## The Bottom Line
-Most people don’t realize this, but the human brain is like a vast city of connections, and after a traumatic event, some of these “roads” might get blocked, rerouted, or broken entirely. [Neuro Experts’ forensic TBI analysis]({{ '/our-services/forensic-neuroradiology/' | relative_url }}) combines the best of neurology, psychology, and imaging science to identify these changes and provide patients and professionals with the answers they deserve. In a world where invisible injuries often go unrecognized, their work is helping to make the unseen, seen.
+Most people don’t realize this, but the human brain is like a vast city of connections, and after a traumatic event, some of these “roads” might get blocked, rerouted, or broken entirely. [Neuro Experts’ forensic TBI analysis](/our-services/forensic-neuroradiology/) combines the best of neurology, psychology, and imaging science to identify these changes and provide patients and professionals with the answers they deserve. In a world where invisible injuries often go unrecognized, their work is helping to make the unseen, seen.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

@@ -5,7 +5,7 @@ date: 2025-01-20 06:33:19
 permalink: /blog/how-neuroradiology-is-reshaping-our-understanding-of-brain/
 description: "Uncover the latest advancements in neuroradiology! From brain mapping to neurodegenerative disease detection, learn how this field is reshaping brain health."
 ---
-We all have heard about neurodegenerative disorders like Alzheimer’s, Parkinsons, ALS, or Multiple Sclerosis. But what we haven’t heard about is that the detection of these disorders demands a variegated approach on distinct layers to expose their complexities. This is where [neuroradiology research and clinical trial consulting]({{ '/our-services/research-clinical-trial-consulting/' | relative_url }}) come into the big picture. Professionals leverage neuroradiology to spot the cause of neurological disorders, monitor disease progression, and more. However, how exactly does neuroradiology work, and how is it reshaping the way we understand everything from simple headaches to complex conditions like traumatic brain injury and strokes? Well, read on to find out!
+We all have heard about neurodegenerative disorders like Alzheimer’s, Parkinsons, ALS, or Multiple Sclerosis. But what we haven’t heard about is that the detection of these disorders demands a variegated approach on distinct layers to expose their complexities. This is where [neuroradiology research and clinical trial consulting](/our-services/research-clinical-trial-consulting/) come into the big picture. Professionals leverage neuroradiology to spot the cause of neurological disorders, monitor disease progression, and more. However, how exactly does neuroradiology work, and how is it reshaping the way we understand everything from simple headaches to complex conditions like traumatic brain injury and strokes? Well, read on to find out!
 
 ## Table of contents
 
@@ -32,8 +32,8 @@ Mental health conditions, like depression and anxiety, have often been difficult
 ## Understanding Neurodegenerative Diseases
 Neuroradiology is also giving us critical insights into neurodegenerative diseases like Alzheimer’s and Parkinson’s. Doctors can now detect changes in the brain’s structure long before symptoms appear. This early detection can lead to better treatments and, hopefully, one day, prevention.
 
-Looking for help with neuroradiology research and clinical trial consulting? Reach out to the team at [Neuro Experts]({{ '/' | relative_url }}) today and get started!
+Looking for help with neuroradiology research and clinical trial consulting? Reach out to the team at [Neuro Experts](/) today and get started!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

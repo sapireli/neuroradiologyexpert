@@ -5,7 +5,7 @@ date: 2025-05-28 10:35:01
 permalink: /blog/how-neuroradiologists-validate-neurological-claims-in-court/
 description: "Hire a neurological disorders expert witness to validate brain injury claims. Expert testimony backed by medical imaging. Schedule a consultation!"
 ---
-As an attorney, you see your client walking into a courtroom claiming a traumatic brain injury from a car accident. The client complains about memory loss, confusion, and headaches, and the stakes are high, as fair compensation could be on the line. But here’s the real question: How do you prove what’s going on inside someone’s brain? That’s where a [neuroradiologist expert witness]({{ '/our-services/forensic-neuroradiology/' | relative_url }}) steps in and turns complex brain scans into courtroom evidence.
+As an attorney, you see your client walking into a courtroom claiming a traumatic brain injury from a car accident. The client complains about memory loss, confusion, and headaches, and the stakes are high, as fair compensation could be on the line. But here’s the real question: How do you prove what’s going on inside someone’s brain? That’s where a [neuroradiologist expert witness](/our-services/forensic-neuroradiology/) steps in and turns complex brain scans into courtroom evidence.
 
 ## Table of contents
 
@@ -48,8 +48,8 @@ In court, neuroradiologists are expected to present complex data in a simplified
 
 *(Source: https://www.clio.com/blog/personal-injury-law-statistics/*)*
 
-Neuroradiologist expert witnesses serve as the bridge between medicine and justice, lending scientific credibility to neurological claims while ensuring that verdicts are based on facts rather than emotions. Seeking a seasoned, reliable, and unbiased expert witness with experience in neurological disorders to help translate facts into actionable insights? Reach out to the team at [Neuro Experts]({{ '/' | relative_url }}) today!
+Neuroradiologist expert witnesses serve as the bridge between medicine and justice, lending scientific credibility to neurological claims while ensuring that verdicts are based on facts rather than emotions. Seeking a seasoned, reliable, and unbiased expert witness with experience in neurological disorders to help translate facts into actionable insights? Reach out to the team at [Neuro Experts](/) today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

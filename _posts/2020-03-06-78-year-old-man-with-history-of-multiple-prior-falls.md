@@ -12,7 +12,7 @@ A 78-year-old male with history of multiple prior falls is brought into the loca
 - [What type of head injury is seen in this image, and what space does this injury involve?](#what-type-of-head-injury-is-seen-in-this-image-and-what-space-does-this-injury-involve)
 - [Subdural hematoma](#subdural-hematoma)
 
-![]({{ '/assets/images/neuro3.jpg' | relative_url }})
+![](/wp-content/uploads/2024/10/neuro3.jpg)
 
 ## What type of head injury is seen in this image, and what space does this injury involve?
 
@@ -30,9 +30,9 @@ A 78-year-old male with history of multiple prior falls is brought into the loca
 - Hyperacute phase (<6 hrs) can be of heterogeneous density or hypodense on CT.
 - Acute phase (6h – 3d) hematoma is homogeneously hyperdense ~60% of the time and mixed hyper- and hypodense 40% of the time.
 
-![Subdural hematoma]({{ '/assets/images/neuro2-1024x383.png' | relative_url }}) Taken from Neuroradiology: The Requisites 3rd Edition (2010). Rohini Nadgir, David Yousem, Robert Zimmerman, Robert Grossman,
+![Subdural hematoma](/wp-content/uploads/2024/10/neuro2-1024x383.png) Taken from Neuroradiology: The Requisites 3rd Edition (2010). Rohini Nadgir, David Yousem, Robert Zimmerman, Robert Grossman,
 
-![Case courtesy of A.Prof Frank Gaillard, Radiopaedia.org, rID: 36065]({{ '/assets/images/Capture.png' | relative_url }}) Case courtesy of A.Prof Frank Gaillard, Radiopaedia.org, rID: 36065
+![Case courtesy of A.Prof Frank Gaillard, Radiopaedia.org, rID: 36065](/wp-content/uploads/2024/10/Capture.png) Case courtesy of A.Prof Frank Gaillard, Radiopaedia.org, rID: 36065
 
 - MR findings: Variable in appearance secondary to the different appearance of blood on MR depending on its age.
 - Typically, subdural hemorrhage is secondary to traumatic tearing of bridging cerebral veins. The trauma may be very minor, especially in elderly patients as they are predisposed tearing secondary to cerebral atrophy.
@@ -43,5 +43,5 @@ A 78-year-old male with history of multiple prior falls is brought into the loca
 - High-dose mannitol is often given to decrease risk of brain herniation prior to surgery.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

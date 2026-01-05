@@ -15,7 +15,7 @@ description: "Traumatic injury cases demand neuroradiology experts. Get accurate
 - [Conclusion](#conclusion)
 - [FAQs](#faqs)
 
-In traumatic brain and spine injury cases, only neuroradiologists have the specialized training to interpret neuro-imaging with accuracy and confidence. Testimony from other clinicians may be incomplete or misleading. For reliable medical and legal outcomes, attorneys and patients should ensure imaging is reviewed by [a certified neuroradiologist]({{ '/about-us/' | relative_url }}).
+In traumatic brain and spine injury cases, only neuroradiologists have the specialized training to interpret neuro-imaging with accuracy and confidence. Testimony from other clinicians may be incomplete or misleading. For reliable medical and legal outcomes, attorneys and patients should ensure imaging is reviewed by [a certified neuroradiologist](/about-us/).
 
 ** Table of Contents:**
 
@@ -27,7 +27,7 @@ In traumatic brain and spine injury cases, only neuroradiologists have the speci
 
 ## Introduction
 
-Imagine being in court for a traumatic brain or spine injury case as an attorney. The stakes couldn’t be higher as someone’s future, care, and possibly financial stability depend on what the experts say about the victim’s scans. But the question is, who is the expert? Neurologists, psychiatrists, neurosurgeons, orthopedic surgeons, and PM&R Doctors are brilliant in their respective specialties. Still, when it comes to interpreting brain and spine imaging, they don’t have the same depth of training as a neuroradiologist. And in high-stakes scenarios like TBI litigation, that gap matters a lot. Still wondering [why the opinion of an expert neuroradiologist is important]({{ '/blog/how-neuroradiologists-validate-neurological-claims-in-court/' | relative_url }})? Read on to find out!
+Imagine being in court for a traumatic brain or spine injury case as an attorney. The stakes couldn’t be higher as someone’s future, care, and possibly financial stability depend on what the experts say about the victim’s scans. But the question is, who is the expert? Neurologists, psychiatrists, neurosurgeons, orthopedic surgeons, and PM&R Doctors are brilliant in their respective specialties. Still, when it comes to interpreting brain and spine imaging, they don’t have the same depth of training as a neuroradiologist. And in high-stakes scenarios like TBI litigation, that gap matters a lot. Still wondering [why the opinion of an expert neuroradiologist is important](/blog/how-neuroradiologists-validate-neurological-claims-in-court/)? Read on to find out!
 
 ## What Makes a Neuroradiologist Different?
 
@@ -53,7 +53,7 @@ When this happens in TBI or spinal injury litigation, the jury and judge might b
 
 *As per* [Frontiers](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1556147/full)*, in 2021, there were 20,837,466 cases of head injuries worldwide, with 56.63% moderate/ severe TBI cases.* With so many cases revolving around TBI and other neurological disorders, neuro-imaging expertise isn’t just optional; it’s essential. Other clinicians may be brilliant in their fields, but when it comes to interpreting brain and spine scans, only a neuroradiologist with expertise in traumatic brain and spine injury has the training to deliver courtroom-ready accuracy.
 
-Looking for professional neuroradiologists who deliver accurate and unbiased results for improving patient outcomes and supporting legal evidence? Reach out to our team at [Neuro Experts, PC]({{ '/' | relative_url }}) today!
+Looking for professional neuroradiologists who deliver accurate and unbiased results for improving patient outcomes and supporting legal evidence? Reach out to our team at [Neuro Experts, PC](/) today!
 
 ## FAQs
 
@@ -70,5 +70,5 @@ No, they work in hospitals, specialized imaging centers, and sometimes as indepe
 Because neuroradiologists have advanced expertise in neuroimaging, their interpretations are more accurate, precise, complete, and credible, making their testimony stronger and harder to challenge in legal settings.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

@@ -37,14 +37,14 @@ Here’s something many people don’t realize: radiologists often provide repor
 
 An accurate MRI report showing a traumatic brain injury, for example, could support your claim and help you get compensation for medical expenses, lost wages, and pain and suffering.
 
-Some radiologists even serve as [expert witnesses]({{ '/our-services/forensic-neuroradiology/' | relative_url }}), explaining medical findings in a manner that a jury can understand. They can clearly communicate how the injury occurred, what it means for the patient, and how it will impact the victim’s future, thereby tipping the scales in favor of truth.
+Some radiologists even serve as [expert witnesses](/our-services/forensic-neuroradiology/), explaining medical findings in a manner that a jury can understand. They can clearly communicate how the injury occurred, what it means for the patient, and how it will impact the victim’s future, thereby tipping the scales in favor of truth.
 
 ## The Bottom Line
 
 With advanced imaging tools and sharp diagnostic skills, neuroradiologists help uncover hidden injuries, guide treatment plans, and support legal claims. However, to achieve effective and precise results without discrepancies, you need the aid of a trained, board-certified neuroradiologist who can help the patient on the road to recovery.
 
-Seeking professional radiologists or a reputable spine and brain imaging center? Reach out to the team at [Neuro Experts]({{ '/' | relative_url }}) today!
+Seeking professional radiologists or a reputable spine and brain imaging center? Reach out to the team at [Neuro Experts](/) today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

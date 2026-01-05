@@ -14,7 +14,7 @@ When we are talking about understanding the human brain, one thing is clear: itâ
 - [Mapping the Brain Like Never Before](#mapping-the-brain-like-never-before)
 - [Conclusion](#conclusion)
 
-[Neuroradiology research and clinical trial consulting]({{ '/our-services/research-clinical-trial-consulting/' | relative_url }}) play a massive role in neurological research. We will talk about some of them in this blog today!
+[Neuroradiology research and clinical trial consulting](/our-services/research-clinical-trial-consulting/) play a massive role in neurological research. We will talk about some of them in this blog today!
 
 ## Seeing the Brain in Action
 
@@ -36,8 +36,8 @@ MEG or Magnetoencephalography is another game-changer. They allow researchers to
 
 ## Conclusion
 
-In a nutshell, the future of neuroradiology is bright, and especially when it comes to clinical trials, reaching out to professionals can be an excellent way to get precise and unbiased results without any errors. Need expert opinion, and are looking for professionals who can help with neuroradiology research and clinical trial consulting? Reach out to the team of trusted and impartial [California Neuroradiologists]({{ '/about-us/' | relative_url }}) at Neuro Experts today.
+In a nutshell, the future of neuroradiology is bright, and especially when it comes to clinical trials, reaching out to professionals can be an excellent way to get precise and unbiased results without any errors. Need expert opinion, and are looking for professionals who can help with neuroradiology research and clinical trial consulting? Reach out to the team of trusted and impartial [California Neuroradiologists](/about-us/) at Neuro Experts today.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Planning a study or trial that needs imaging expertise? <a href="{{ '/our-services/research-clinical-trial-consulting/' | relative_url }}">Explore Research & clinical trial consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Planning a study or trial that needs imaging expertise? <a href="/our-services/research-clinical-trial-consulting/">Explore Research & clinical trial consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>

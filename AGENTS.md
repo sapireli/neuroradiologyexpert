@@ -6,8 +6,8 @@ This is a Jekyll site rebuilt from a legacy WordPress scrape. Primary content li
 - Services collection: `_services/*.md` (rendered via `_layouts/service.html`).
 - Blog posts: `_posts/YYYY-MM-DD-slug.md` and `blog/index.md` for the listing.
 - Layouts/includes/data: `_layouts/`, `_includes/`, `_data/`.
-- Assets: `assets/css/main.css`, `assets/js/main.js`, and media under `assets/images/` (plus documents in `assets/files/`).
-- Legacy reference: `neuroradiologyexpert.com/` (excluded from builds) for original page/post content.
+- Assets: `assets/css/main.css`, `assets/js/main.js`, and media under `wp-content/uploads/`.
+- Legacy reference: `neuroradiologyexpert.com/wp-json/wp/v2/` for original page/post content.
 
 ## Build, Test, and Development Commands
 - Install dependencies: `bundle install`.
@@ -24,7 +24,7 @@ This is a Jekyll site rebuilt from a legacy WordPress scrape. Primary content li
 ## Testing Guidelines
 No automated tests. Validate with manual QA:
 - Run `bundle exec jekyll serve` and check key pages on desktop + mobile widths.
-- Verify images resolve from `assets/images/` and internal links use the new Jekyll paths.
+- Verify images resolve from `wp-content/uploads/` and internal links use the new Jekyll paths.
 - Spot-check SEO basics (title, meta description, H1 structure) on updated pages.
 
 ## Commit & Pull Request Guidelines

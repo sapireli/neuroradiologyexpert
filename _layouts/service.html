@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<section class="hero hero-inner service-hero"{% if page.hero_image %} style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+<section class="hero hero-inner service-hero"{% if page.hero_image %} style="background-image: url('{{ page.hero_image }}');"{% endif %}>
   <div class="service-hero-overlay"></div>
   <div class="container">
     <div class="eyebrow">Service</div>
-    <div class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / <a href="{{ '/our-services/' | relative_url }}">Our Services</a> / {{ page.title }}</div>
+    <div class="breadcrumb">Home / Our Services / {{ page.title }}</div>
     <h1>{{ page.title }}</h1>
     {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
   </div>

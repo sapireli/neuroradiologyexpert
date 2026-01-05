@@ -2,7 +2,7 @@
   url: /
 - label: Services
   url: /our-services/
-  panel:
+- panel:
     - title: "Forensic services"
       links:
         - label: "Forensic Neuroradiology"
@@ -27,7 +27,7 @@
           description: "Operational strategy and growth planning."
 - label: About
   url: /about-us/
-  panel:
+- panel:
     - title: "Company"
       links:
         - label: "About Us"

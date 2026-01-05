@@ -5,7 +5,7 @@ date: 2025-05-12 10:31:38
 permalink: /blog/the-role-of-neuroradiology-in-epilepsy-evaluation/
 description: "Need advanced neuroradiology services for epilepsy? High-resolution imaging detects seizure causes. Consult our specialists for expert care now!"
 ---
-*Did you know that Epilepsy affects over 50 million people worldwide?* Yet for many individuals, the root cause of their seizures remains elusive. Yes, there’s no denying that EEGs (electroencephalograms) and clinical history provide valuable clues to detect epilepsy. But they often fail to identify the structural abnormalities responsible for seizures. That’s where [neuroradiology experts]({{ '/about-us/' | relative_url }}) come into the big picture to improve patient outcomes and support clinical research.
+*Did you know that Epilepsy affects over 50 million people worldwide?* Yet for many individuals, the root cause of their seizures remains elusive. Yes, there’s no denying that EEGs (electroencephalograms) and clinical history provide valuable clues to detect epilepsy. But they often fail to identify the structural abnormalities responsible for seizures. That’s where [neuroradiology experts](/about-us/) come into the big picture to improve patient outcomes and support clinical research.
 
 ## Table of contents
 
@@ -43,8 +43,8 @@ For patients who have drug-resistant epilepsy, surgery may be the best chance at
 
 Neuroradiology bridges the gap between symptoms and solutions in epilepsy care. As imaging technology continues to evolve, so will the accuracy and precision of epilepsy evaluation, offering renewed hope for patients living with this complex neurological disorder. For clinicians and patients alike, the integration of neuroradiology into epilepsy management is not only beneficial but also indispensable.
 
-Looking for neuroradiology services?[Reach out]({{ '/contact-us/' | relative_url }}) to our team at Neuro Experts today!
+Looking for neuroradiology services?[Reach out](/contact-us/) to our team at Neuro Experts today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
 </div>
