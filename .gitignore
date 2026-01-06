@@ -2,6 +2,7 @@ _site/
 _site-*/
 _site-build/
 _site-final/
+_site-final2/
 .jekyll-cache/
 .bundle/
 .sass-cache/
