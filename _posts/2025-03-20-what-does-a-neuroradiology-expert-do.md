@@ -5,7 +5,7 @@ date: 2025-03-20 06:08:21
 permalink: /blog/what-does-a-neuroradiology-expert-do/
 description: "Learn what a neuroradiology expert does! Get top neuroradiology services for brain scans. Contact Neuro Experts for fast results!"
 ---
-If you have ever heard the term *neuroradiologist*, you might have thought, what do they actually do? Well, if the answer is yes, you are not alone. In fact, most people don’t encounter a neuroradiology expert until they are in the midst of a clinical trial consultation or a legal case. However, whether you are in R&D, in the healthcare sector, or a [legal professional requiring expert witness](/blog/winning-personal-injury-cases-with-neuroradiology-expertise/) in a worker’s compensation case, understanding what a neuroradiologist does can help you comprehend their role in the bigger picture. So, let’s break it all down, without jargon and with clarity.
+If you have ever heard the term *neuroradiologist*, you might have thought, what do they actually do? Well, if the answer is yes, you are not alone. In fact, most people don’t encounter a neuroradiology expert until they are in the midst of a clinical trial consultation or a legal case. However, whether you are in R&D, in the healthcare sector, or a [legal professional requiring expert witness]({{ '/blog/winning-personal-injury-cases-with-neuroradiology-expertise/' | relative_url }}) in a worker’s compensation case, understanding what a neuroradiologist does can help you comprehend their role in the bigger picture. So, let’s break it all down, without jargon and with clarity.
 
 ## Table of contents
 
@@ -22,7 +22,7 @@ In simple lingo, you can think of a neuroradiologist as the brain’s doctor. Th
 - A radiology residency
 - A neuroradiology fellowship
 
-So, by the time they are practicing as [board-certified neuroradiologists](/about-us/), they have spent over a decade studying how to read the nervous system in ways that most physicians simply can’t.
+So, by the time they are practicing as [board-certified neuroradiologists]({{ '/about-us/' | relative_url }}), they have spent over a decade studying how to read the nervous system in ways that most physicians simply can’t.
 
 ## What Do Neuroradiologists Do?
 
@@ -44,8 +44,8 @@ If you are an attorney, physician, or insurance rep dealing with complex neurolo
 
 Let’s say you have had a strange bout of headaches, memory issues, or numbness in your limbs. Your doctor orders an MRI. The scan might look like abstract art to you, but to a neuroradiologist, it paints an entire picture —maybe it’s an inflammation, past trauma, or something more serious. In fact, your entire treatment plan could hinge on what this expert sees. If you have suffered the consequences of medical malpractice, a neuroradiologist can be the bridge between you and justice with their expert insights.
 
-Looking for neuroradiology services and unbiased and accurate results with a quick 24–48-hour turnaround time for reports? Reach out to the team at [Neuro Experts](/) today!
+Looking for neuroradiology services and unbiased and accurate results with a quick 24–48-hour turnaround time for reports? Reach out to the team at [Neuro Experts]({{ '/' | relative_url }}) today!
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

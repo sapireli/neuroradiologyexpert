@@ -13,5 +13,5 @@ We recently helped a 31 year-old otherwise healthy female who had a “vertebral
 - Arterial dissection is the most common cause of stroke in young otherwise healthy individuals.  The most common and well understood mechanism of stroke as result of arterial dissection is development of blood clots form at the site of the tear in the arterial wall, which break off and travel through the arteries to the brain, eventually blocking the blood supply to a part of the brain, resulting in an ischemia and/or infarct. Another, less common, mechanism by which arterial dissection can lead to a stroke is occlusion of the dissected artery (true lumen) secondary to the mass effect of blood accumulation in the false lumen.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

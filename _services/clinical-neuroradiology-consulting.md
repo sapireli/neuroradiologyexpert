@@ -4,8 +4,8 @@ title: "Clinical Neuroradiology Consulting"
 slug: clinical-neuroradiology-consulting
 order: 1
 description: "Get accurate brain and spine diagnosis from our board-certified neuroradiology consultants. Consult Our Expert Team!"
-hero_image: "/wp-content/uploads/2024/10/34589.jpg"
-card_image: "/wp-content/uploads/2024/10/34589-300x240.jpg"
+hero_image: "/assets/images/uploads/2024/10/34589.jpg"
+card_image: "/assets/images/uploads/2024/10/34589-300x240.jpg"
 highlights:
   - title: "Second opinions + complex diagnosis"
     text: "Advanced interpretation for brain, spine, and spinal cord findings."
@@ -20,10 +20,10 @@ highlights:
   <div>
     <p>The nervous system is the most crucial part of the human body, and any harm caused to it can be devastating or even life-threatening. For patients who need quick diagnosis and treatment of neurological conditions, we offer neuroradiology services to <em>diagnose and guide treatment</em> of abnormalities found in the brain, spine, spinal cord, and neck.</p>
     <p>Our experts have exclusive skills in interpreting advanced neuroimaging such as Diffusion Tensor Imaging (DTI), functional MRI (fMRI), MR perfusion, Arterial Spine Labeling (ASL), MR spectroscopy, CT perfusion, Positron Emission Tomography (PET), and Single-photon emission computed tomography (SPECT) imaging.</p>
-    <p>Need more help with clinical neuroradiology? <a href="/contact-us">Consult our team</a> of experts today.</p>
+    <p>Need more help with clinical neuroradiology? <a href="{{ '/contact-us' | relative_url }}">Consult our team</a> of experts today.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/34589.jpg" alt="Clinical neuroradiology consulting">
+    <img src="{{ '/assets/images/uploads/2024/10/34589.jpg' | relative_url }}" alt="Clinical neuroradiology consulting">
   </div>
 </div>
 
@@ -53,7 +53,7 @@ highlights:
     </ul>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/revslider/main-home/h1-slider-image-31.jpg" alt="Advanced neuroradiology imaging">
+    <img src="{{ '/assets/images/uploads/revslider/main-home/h1-slider-image-31.jpg' | relative_url }}" alt="Advanced neuroradiology imaging">
   </div>
 </div>
 
@@ -63,27 +63,27 @@ highlights:
 
 <div class="service-subgrid">
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/000001.png" alt="White matter imaging">
+    <img src="{{ '/assets/images/uploads/2024/10/000001.png' | relative_url }}" alt="White matter imaging">
     <h3>White Matter Imaging</h3>
     <p>With DTI imaging, neuroradiologists can get insights into white matter integrity and anatomy, which is essential for evaluation of conditions like traumatic brain injury and brain tumors.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/Microhemorrhages-Minor-TBI-edit.jpg" alt="Detection of traumatic axonal injury">
+    <img src="{{ '/assets/images/uploads/2024/10/Microhemorrhages-Minor-TBI-edit.jpg' | relative_url }}" alt="Detection of traumatic axonal injury">
     <h3>Detection of Traumatic Axonal Injury</h3>
     <p>Susceptibility Weighted Imaging (SWI) and Diffusion Tensor Imaging (DTI) can be effective in identifying traumatic axonal injuries, which occur when the brain's connectivity is damaged.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/Major-anatomical-tracts-of-the-brain-Major-fiber-tracts-based-on-the-Johns-Hopkins.png" alt="Comprehensive mapping of fiber tracts">
+    <img src="{{ '/assets/images/uploads/2024/10/Major-anatomical-tracts-of-the-brain-Major-fiber-tracts-based-on-the-Johns-Hopkins.png' | relative_url }}" alt="Comprehensive mapping of fiber tracts">
     <h3>Comprehensive Mapping of Fiber Tracts</h3>
     <p>Diffusion tensor imaging in tumor imaging and traumatic brain injury is also used to create detailed maps of fiber tracts in the human brain.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/3-s2.0-B978008100123300004X-f04-13-9780081001233.jpg" alt="Precision in image-guided procedures">
+    <img src="{{ '/assets/images/uploads/2024/10/3-s2.0-B978008100123300004X-f04-13-9780081001233.jpg' | relative_url }}" alt="Precision in image-guided procedures">
     <h3>Precision in Image-Guided Procedures</h3>
     <p>DTI and functional MRI (fMRI) can also be used to guide neurosurgical procedures such as tumor resection or deep brain stimulator placement.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/techday_cd4c0f9e0cc2eb77c1c0.webp" alt="Advanced clinical research opportunities">
+    <img src="{{ '/assets/images/uploads/2024/10/techday_cd4c0f9e0cc2eb77c1c0.webp' | relative_url }}" alt="Advanced clinical research opportunities">
     <h3>Advanced Clinical Research Opportunities</h3>
     <p>DTI and functional MRI open new doors for clinical research into neurological disorders. Researchers can use these imaging methods to assess the human brain and neural network.</p>
   </div>
@@ -96,7 +96,7 @@ highlights:
     <p>Perfusion images help assess blood flow to different regions of the brain and are especially useful in diagnosing conditions such as stroke, brain tumors, and certain types of dementia.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/image4.png" alt="Perfusion imaging">
+    <img src="{{ '/assets/images/uploads/2024/10/image4.png' | relative_url }}" alt="Perfusion imaging">
   </div>
 </div>
 
@@ -111,7 +111,7 @@ highlights:
     <p>Neuroradiology is a specialized branch of radiology focused on the imaging and diagnosis of diseases related to the central nervous system (CNS), brain, head, neck, and spine. Our expert neuroradiologists use magnetic fields, X-rays, and advanced imaging technologies to get highly detailed images of the human brain and spinal cord.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/neruo.jpg" alt="Why neuroradiology">
+    <img src="{{ '/assets/images/uploads/2024/10/neruo.jpg' | relative_url }}" alt="Why neuroradiology">
   </div>
 </div>
 
@@ -124,17 +124,17 @@ highlights:
       <li><strong>Personalized, Patient-Centered Care:</strong> We guide customized treatment plans by working with neurologists, neurosurgeons, pain specialists, and other clinicians.</li>
       <li><strong>Commitment to Clinical Research:</strong> Our experts have many years of experience in investigations of diagnostic and treatment modalities in neurological disorders such as epilepsy, dementia, stroke, and traumatic brain injury (TBI). Their clinical and academic expertise allows them to lead large-scale projects in the field of neurosciences.</li>
     </ul>
-    <p>Need help with your research project? <a href="/contact-us">Consult</a> our team of experts today.</p>
+    <p>Need help with your research project? <a href="{{ '/contact-us' | relative_url }}">Consult</a> our team of experts today.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/12/NeuroRadiology-Naperville-Radiology.jpg" alt="Why choose Neuro Experts">
+    <img src="{{ '/assets/images/uploads/2024/12/NeuroRadiology-Naperville-Radiology.jpg' | relative_url }}" alt="Why choose Neuro Experts">
   </div>
 </div>
 
 ## Related services
 
 <ul class="list-check">
-  <li><a href="/our-services/research-clinical-trial-consulting/">Research &amp; Clinical Trial Consulting</a></li>
-  <li><a href="/our-services/radiology-business-consulting/">Radiology Business Consulting</a></li>
-  <li><a href="/our-services/forensic-neuroradiology/">Forensic Neuroradiology Services</a></li>
+  <li><a href="{{ '/our-services/research-clinical-trial-consulting/' | relative_url }}">Research &amp; Clinical Trial Consulting</a></li>
+  <li><a href="{{ '/our-services/radiology-business-consulting/' | relative_url }}">Radiology Business Consulting</a></li>
+  <li><a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Forensic Neuroradiology Services</a></li>
 </ul>

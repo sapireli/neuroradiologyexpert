@@ -20,7 +20,7 @@ description: "A neuroscience expert witness helps explain traumatic brain injuri
 
 [https://www.sciencedirect.com/science/article/abs/pii/S1047279725000316](https://www.sciencedirect.com/science/article/abs/pii/S1047279725000316)
 
-You cannot see a concussion or a loss in cognitive ability on an X-ray the same way you can see a broken bone, and that makes it incredibly hard for judges, juries, or even lawyers to fully grasp the severity and impact of the injury. That’s where [neuroscience expert witness testimony](/our-services/forensic-neuroradiology/) becomes essential.
+You cannot see a concussion or a loss in cognitive ability on an X-ray the same way you can see a broken bone, and that makes it incredibly hard for judges, juries, or even lawyers to fully grasp the severity and impact of the injury. That’s where [neuroscience expert witness testimony]({{ '/our-services/forensic-neuroradiology/' | relative_url }}) becomes essential.
 
 ## But, What Is a Brain Injury?
 
@@ -32,7 +32,7 @@ While some injuries heal over time, others cause lasting damage, and because eve
 
 You can think of expert witnesses as translators, people who take complex medical jargon and turn it into something that the average person can understand. These experts are often neurologists or neuroradiologists who have years of clinical and research experience. In court, they unbiasedly explain how the injury occurred, which areas of the brain were affected, and how that damage impacts a person’s daily life.
 
-For example, let’s assume someone sustained a brain injury in a car accident. The defense might argue it was a minor bump and the plaintiff is exaggerating. However,[attorneys can hire a neuroradiologist expert witness](/blog/when-do-attorneys-hire-a-neuroradiologist-expert-witness-for-a-case/) to review the patient’s brain MRIs to evaluate the real-life consequences based on the character and location of the imaging findings. Suddenly, the invisible becomes visible.
+For example, let’s assume someone sustained a brain injury in a car accident. The defense might argue it was a minor bump and the plaintiff is exaggerating. However,[attorneys can hire a neuroradiologist expert witness]({{ '/blog/when-do-attorneys-hire-a-neuroradiologist-expert-witness-for-a-case/' | relative_url }}) to review the patient’s brain MRIs to evaluate the real-life consequences based on the character and location of the imaging findings. Suddenly, the invisible becomes visible.
 
 ## Their Role in Building a Legal Case
 
@@ -42,8 +42,8 @@ We would say it’s not about swaying the jury emotionally, but about giving the
 
 ## Final Thoughts
 
-At the end of the day, understanding brain injuries takes more than just scans and symptoms; it takes expertise. With the help of an expert witness, the legal system can better understand the often invisible and deeply personal impact of brain trauma. If you or someone you know is navigating a legal battle involving a TBI, feel free to connect to our neuroscience expert witness at [Neuro Exerts, PC](/) today, because impartial expert testimony isn’t just helpful; it could be the most crucial part of the case.
+At the end of the day, understanding brain injuries takes more than just scans and symptoms; it takes expertise. With the help of an expert witness, the legal system can better understand the often invisible and deeply personal impact of brain trauma. If you or someone you know is navigating a legal battle involving a TBI, feel free to connect to our neuroscience expert witness at [Neuro Exerts, PC]({{ '/' | relative_url }}) today, because impartial expert testimony isn’t just helpful; it could be the most crucial part of the case.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

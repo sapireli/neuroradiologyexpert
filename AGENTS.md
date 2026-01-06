@@ -1,13 +1,12 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-This is a Jekyll site rebuilt from a legacy WordPress scrape. Primary content lives at the repo root, with the scrape preserved under `neuroradiologyexpert.com/` for reference.
+This is a Jekyll site rebuilt from a legacy WordPress scrape. Primary content lives at the repo root.
 - Pages: `index.md`, `about-us/index.md`, `contact-us/index.md`, `frequently-asked-questions/index.md`, `our-services/index.md`.
 - Services collection: `_services/*.md` (rendered via `_layouts/service.html`).
 - Blog posts: `_posts/YYYY-MM-DD-slug.md` and `blog/index.md` for the listing.
 - Layouts/includes/data: `_layouts/`, `_includes/`, `_data/`.
-- Assets: `assets/css/main.css`, `assets/js/main.js`, and media under `wp-content/uploads/`.
-- Legacy reference: `neuroradiologyexpert.com/wp-json/wp/v2/` for original page/post content.
+- Assets: `assets/css/main.css`, `assets/js/main.js`, and media under `assets/images/uploads/`.
 
 ## Build, Test, and Development Commands
 - Install dependencies: `bundle install`.
@@ -24,7 +23,7 @@ This is a Jekyll site rebuilt from a legacy WordPress scrape. Primary content li
 ## Testing Guidelines
 No automated tests. Validate with manual QA:
 - Run `bundle exec jekyll serve` and check key pages on desktop + mobile widths.
-- Verify images resolve from `wp-content/uploads/` and internal links use the new Jekyll paths.
+- Verify images resolve from `assets/images/uploads/` and internal links use the new Jekyll paths.
 - Spot-check SEO basics (title, meta description, H1 structure) on updated pages.
 
 ## Commit & Pull Request Guidelines

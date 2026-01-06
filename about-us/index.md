@@ -15,27 +15,27 @@ Precision in Neuroradiology, Trust in Expert Care.
     <div class="callout">Complimentary initial consultation available for new cases and second opinions.</div>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/pexels-cottonbro-7579831.jpg" alt="Precision in neuroradiology">
+    <img src="{{ '/assets/images/uploads/2024/10/pexels-cottonbro-7579831.jpg' | relative_url }}" alt="Precision in neuroradiology">
   </div>
 </div>
 
 <div class="media-grid">
-  <img src="/wp-content/uploads/2024/10/34589.jpg" alt="Clinical neuroradiology consulting">
-  <img src="/wp-content/uploads/2024/10/5158.jpg" alt="Leader in medical-legal neuroradiology consulting">
+  <img src="{{ '/assets/images/uploads/2024/10/34589.jpg' | relative_url }}" alt="Clinical neuroradiology consulting">
+  <img src="{{ '/assets/images/uploads/2024/10/5158.jpg' | relative_url }}" alt="Leader in medical-legal neuroradiology consulting">
 </div>
 
 ## Leadership
 
 <div class="split-block">
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/IMG_636029.jpg" alt="Saman Hazany MD, DABR">
+    <img src="{{ '/assets/images/uploads/2024/10/IMG_636029.jpg' | relative_url }}" alt="Saman Hazany MD, DABR">
   </div>
   <div>
     <h3>Saman Hazany, MD, DABR</h3>
     <p><strong>Specialty:</strong> Radiology and Neuroradiology</p>
     <p><strong>Expertise:</strong> Traumatic Brain and Spine Injury Imaging, CT, MRI, DTI</p>
     <p>Harvard-trained neuroradiologist with extensive experience in concussion and traumatic brain injury imaging. Academic appointments at UCLA and USC with leadership experience in neuroradiology education and research.</p>
-    <p><a href="/blog/team-member/saman-hazany/">View full leadership profile</a> or <a href="/team/">meet the full team</a>.</p>
+    <p><a href="{{ '/blog/team-member/saman-hazany/' | relative_url }}">View full leadership profile</a> or <a href="{{ '/team/' | relative_url }}">meet the full team</a>.</p>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ Precision in Neuroradiology, Trust in Expert Care.
     <p>We are dedicated to serving medical centers, legal professionals, and, most importantly, patients with unmatched quality and impartial results in interpreting neuroimaging, including Computed Tomography (CT) scans and Magnetic Resonance Imaging (MRI).</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/national-cancer-institute-xcN1taJ2y0M-unsplash.jpg" alt="Our mission">
+    <img src="{{ '/assets/images/uploads/2024/10/national-cancer-institute-xcN1taJ2y0M-unsplash.jpg' | relative_url }}" alt="Our mission">
   </div>
 </div>
 
@@ -95,7 +95,7 @@ Precision in Neuroradiology, Trust in Expert Care.
     </div>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/NeuroRadiology-Naperville-Radiology.jpg" alt="Core values at Neuro Experts">
+    <img src="{{ '/assets/images/uploads/2024/10/NeuroRadiology-Naperville-Radiology.jpg' | relative_url }}" alt="Core values at Neuro Experts">
   </div>
 </div>
 
@@ -105,7 +105,7 @@ Precision in Neuroradiology, Trust in Expert Care.
 
 <div class="split-block">
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/11/Why-Choose-Us.jpg" alt="Why choose Neuro Experts">
+    <img src="{{ '/assets/images/uploads/2024/11/Why-Choose-Us.jpg' | relative_url }}" alt="Why choose Neuro Experts">
   </div>
   <div>
     <ul class="list-check">

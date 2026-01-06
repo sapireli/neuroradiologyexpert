@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="hero hero-inner service-hero"{% if page.hero_image %} style="background-image: url('{{ page.hero_image }}');"{% endif %}>
+<section class="hero hero-inner service-hero"{% if page.hero_image %} style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
   <div class="service-hero-overlay"></div>
   <div class="container">
     <div class="eyebrow">Service</div>

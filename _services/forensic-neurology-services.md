@@ -4,8 +4,8 @@ title: "Forensic Neurology Services"
 slug: forensic-neurology-services
 order: 2
 description: "Get credible medical testimony from board-certified neurology expert witnesses. Specializing in causation analysis, IME, & TBI claims. Call Neuro Experts today!"
-hero_image: "/wp-content/uploads/2025/12/vecteezy_close-up-of-brown-wooden-gavel-with-gold-band-and-legal_72854700-scaled-1.jpg"
-card_image: "/wp-content/uploads/2024/12/perfusion-300x240.jpg"
+hero_image: "/assets/images/uploads/2025/12/vecteezy_close-up-of-brown-wooden-gavel-with-gold-band-and-legal_72854700-scaled-1.jpg"
+card_image: "/assets/images/uploads/2024/12/perfusion-300x240.jpg"
 highlights:
   - title: "Neurologic exams + causation"
     text: "Objective evaluations that link clinical findings to legal questions."
@@ -18,14 +18,14 @@ highlights:
 
 <div class="split-block">
   <div>
-    <p>When the stakes are high and neurological claims are challenged, you need expertise that stands up to scrutiny and communicates with clarity. At <a href="/">Neuro Experts, PC</a>, we deliver comprehensive forensic neurological assessments for medico-legal consultancy, including expert opinions, medical evaluations, and neurology expert witness services.</p>
-    <p>Our team of <a href="/about-us/">highly experienced neuroradiology and neuroscience experts</a> delivers defensible expert testimony that judges and juries can understand. We evaluate neurologic conditions, assess neuropsychiatric symptoms, and interpret their legal significance. This includes forensic neuropsychology, neuropsychological assessment, psychological testing, and cognitive evaluation for legal matters, providing expert insights into how brain function influences behavior, decision-making, and legal capacities.</p>
+    <p>When the stakes are high and neurological claims are challenged, you need expertise that stands up to scrutiny and communicates with clarity. At <a href="{{ '/' | relative_url }}">Neuro Experts, PC</a>, we deliver comprehensive forensic neurological assessments for medico-legal consultancy, including expert opinions, medical evaluations, and neurology expert witness services.</p>
+    <p>Our team of <a href="{{ '/about-us/' | relative_url }}">highly experienced neuroradiology and neuroscience experts</a> delivers defensible expert testimony that judges and juries can understand. We evaluate neurologic conditions, assess neuropsychiatric symptoms, and interpret their legal significance. This includes forensic neuropsychology, neuropsychological assessment, psychological testing, and cognitive evaluation for legal matters, providing expert insights into how brain function influences behavior, decision-making, and legal capacities.</p>
     <div class="callout">Independent, board-certified neurologists provide objective causation analysis and courtroom-ready reporting.</div>
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2025/12/vecteezy_close-up-of-brown-wooden-gavel-with-gold-band-and-legal_72854700-scaled-1.jpg" alt="Forensic neurology legal review">
-      <img src="/wp-content/uploads/2025/12/when-to-hire-forensic-neurologist-scaled.jpeg" alt="Attorney consulting neurologist for forensic case review">
+      <img src="{{ '/assets/images/uploads/2025/12/vecteezy_close-up-of-brown-wooden-gavel-with-gold-band-and-legal_72854700-scaled-1.jpg' | relative_url }}" alt="Forensic neurology legal review">
+      <img src="{{ '/assets/images/uploads/2025/12/when-to-hire-forensic-neurologist-scaled.jpeg' | relative_url }}" alt="Attorney consulting neurologist for forensic case review">
     </div>
   </div>
 </div>
@@ -50,22 +50,22 @@ highlights:
 
 <div class="service-subgrid">
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/12/legal-administrative-neurology-claims-2048x1148.jpeg" alt="Medical and legal documents used in neurological claims">
+    <img src="{{ '/assets/images/uploads/2025/12/legal-administrative-neurology-claims-2048x1148.jpeg' | relative_url }}" alt="Medical and legal documents used in neurological claims">
     <h3>Legal & Administrative Claims</h3>
     <p>We establish medical causation, neurologic prognosis, and life expectancy in matters such as personal injury, workers' compensation, toxic torts, and catastrophic incidents (e.g., traumatic neurologic events, spinal cord injury, acquired neurological disease).</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/12/neurology-medical-liability-review-scaled.jpg" alt="Neurologist reviewing medical records for liability analysis">
+    <img src="{{ '/assets/images/uploads/2025/12/neurology-medical-liability-review-scaled.jpg' | relative_url }}" alt="Neurologist reviewing medical records for liability analysis">
     <h3>Medical Liability</h3>
     <p>We conduct standard-of-care reviews and causation analyses for medical malpractice, including delayed diagnosis of neurologic disease, surgical complications, birth injuries, and other neuro-medical adversities.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/12/neurology-expert-medical-testimony-scaled.jpg" alt="Neurology expert providing medical testimony in legal case">
+    <img src="{{ '/assets/images/uploads/2025/12/neurology-expert-medical-testimony-scaled.jpg' | relative_url }}" alt="Neurology expert providing medical testimony in legal case">
     <h3>Criminal Legal Cases</h3>
     <p>We provide neurologic evidence related to brain pathology (tumors, epilepsy, neurodegenerative disease) in matters of competency to stand trial, insanity defenses, and sentencing mitigation.</p>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2025/12/fitness-disability-neurological-evaluation-scaled.jpg" alt="Neurologist performing fitness and disability assessment">
+    <img src="{{ '/assets/images/uploads/2025/12/fitness-disability-neurological-evaluation-scaled.jpg' | relative_url }}" alt="Neurologist performing fitness and disability assessment">
     <h3>Fitness & Disability</h3>
     <p>We determine fitness for duty in safety-sensitive roles and validate clinical and neurodiagnostic diagnoses in disability insurance or employment disputes.</p>
   </div>
@@ -136,11 +136,11 @@ highlights:
   </div>
   <div class="process-card">
     <h3>Advanced imaging review</h3>
-    <p><a href="/our-services/forensic-neuroradiology/">Neuroradiologists</a> add depth with MRI and CT analysis that identifies subtle neurologic findings.</p>
+    <p><a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Neuroradiologists</a> add depth with MRI and CT analysis that identifies subtle neurologic findings.</p>
   </div>
   <div class="process-card">
     <h3>Functional impact</h3>
-    <p><a href="/our-services/forensic-neuropsychological-services/">Forensic neuropsychologists</a> quantify how neurologic changes affect cognition, behavior, and capacity.</p>
+    <p><a href="{{ '/our-services/forensic-neuropsychological-services/' | relative_url }}">Forensic neuropsychologists</a> quantify how neurologic changes affect cognition, behavior, and capacity.</p>
   </div>
   <div class="process-card">
     <h3>Defensible reporting</h3>
@@ -149,8 +149,8 @@ highlights:
 </div>
 
 <div class="media-grid">
-  <img src="/wp-content/uploads/2025/12/forensic-neurology-multidisciplinary-approach-1024x683.jpg" alt="Forensic neurology team reviewing diagnostic findings">
-  <img src="/wp-content/uploads/2025/12/why-choose-neuro-experts-team-1024x585.jpeg" alt="Board-certified neurology expert team at Neuro Experts">
+  <img src="{{ '/assets/images/uploads/2025/12/forensic-neurology-multidisciplinary-approach-1024x683.jpg' | relative_url }}" alt="Forensic neurology team reviewing diagnostic findings">
+  <img src="{{ '/assets/images/uploads/2025/12/why-choose-neuro-experts-team-1024x585.jpeg' | relative_url }}" alt="Board-certified neurology expert team at Neuro Experts">
 </div>
 
 ## Why Choose Us?
@@ -170,11 +170,11 @@ highlights:
   <p><strong>Get in touch today</strong></p>
   <p><strong>Call us:</strong> <a href="tel:+13105972626">+1 (310) 597-2626</a></p>
   <p><strong>Email:</strong> <a href="mailto:info@neuroexpertsgroup.com">info@neuroexpertsgroup.com</a></p>
-  <p><strong>Request a quote:</strong> Fill out our <a href="/contact-us/">simple online form</a>, and we will get in touch with you shortly.</p>
+  <p><strong>Request a quote:</strong> Fill out our <a href="{{ '/contact-us/' | relative_url }}">simple online form</a>, and we will get in touch with you shortly.</p>
 </div>
 
 <div class="media-grid">
-  <img src="/wp-content/uploads/2025/12/contact-forensic-neurology-experts-scaled.jpg" alt="Client consulting forensic neurology expert for case support">
+  <img src="{{ '/assets/images/uploads/2025/12/contact-forensic-neurology-experts-scaled.jpg' | relative_url }}" alt="Client consulting forensic neurology expert for case support">
 </div>
 
 ## FAQ
@@ -233,7 +233,7 @@ highlights:
 ## Related services
 
 <ul class="list-check">
-  <li><a href="/our-services/forensic-neuroradiology/">Forensic Neuroradiology Services</a></li>
-  <li><a href="/our-services/forensic-neuropsychological-services/">Forensic Neuropsychological Services</a></li>
-  <li><a href="/our-services/clinical-neuroradiology-consulting/">Clinical Neuroradiology Consulting</a></li>
+  <li><a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Forensic Neuroradiology Services</a></li>
+  <li><a href="{{ '/our-services/forensic-neuropsychological-services/' | relative_url }}">Forensic Neuropsychological Services</a></li>
+  <li><a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Clinical Neuroradiology Consulting</a></li>
 </ul>

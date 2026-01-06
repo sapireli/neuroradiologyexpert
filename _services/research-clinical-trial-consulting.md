@@ -4,8 +4,8 @@ title: "Advanced Neuroradiology Research and Clinical Trial Consulting"
 slug: research-clinical-trial-consulting
 order: 6
 description: "Accelerate your neuroscience research and clinical trials. Expert consulting on fMRI, DTI, and study design for reliable results. Start Your Project Today!"
-hero_image: "/wp-content/uploads/2024/12/16441.jpg"
-card_image: "/wp-content/uploads/2024/12/neuro.jpeg"
+hero_image: "/assets/images/uploads/2024/12/16441.jpg"
+card_image: "/assets/images/uploads/2024/12/neuro.jpeg"
 highlights:
   - title: "Study design + biomarkers"
     text: "Imaging strategy aligned with clinical research objectives."
@@ -24,8 +24,8 @@ highlights:
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2024/12/16441.jpg" alt="Breakthrough clinical trials">
-      <img src="/wp-content/uploads/2024/10/pexels-shvetsa-4226219.jpg" alt="Neuroradiology-driven clinical advancements">
+      <img src="{{ '/assets/images/uploads/2024/12/16441.jpg' | relative_url }}" alt="Breakthrough clinical trials">
+      <img src="{{ '/assets/images/uploads/2024/10/pexels-shvetsa-4226219.jpg' | relative_url }}" alt="Neuroradiology-driven clinical advancements">
     </div>
   </div>
 </div>
@@ -37,7 +37,7 @@ highlights:
     <p>With advanced neuroimaging, researchers benefit from imaging techniques such as functional MRI (fMRI), Diffusion Tensor Imaging (DTI), Tractography, perfusion imaging, MR spectroscopy, Single-photon emission computed tomography (SPECT), MRI, CT, and PET scans to assess and diagnose conditions related to the brain, spine, and the nervous system. We ensure AI models and patient outcomes align with research objectives so trials and research projects become orchestrated and defensible.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/000001.png" alt="White matter imaging">
+    <img src="{{ '/assets/images/uploads/2024/10/000001.png' | relative_url }}" alt="White matter imaging">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ highlights:
 
 <div class="service-subgrid">
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/000001.png" alt="Neuroradiology research consulting">
+    <img src="{{ '/assets/images/uploads/2024/10/000001.png' | relative_url }}" alt="Neuroradiology research consulting">
     <h3>Neuroradiology Research Consulting</h3>
     <p>Customized consulting for institutions investigating epilepsy, brain tumors, TBI, stroke, and other neurodegenerative disorders.</p>
     <ul class="list-check">
@@ -65,7 +65,7 @@ highlights:
     </ul>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/Microhemorrhages-Minor-TBI-edit.jpg" alt="Clinical trial consulting">
+    <img src="{{ '/assets/images/uploads/2024/10/Microhemorrhages-Minor-TBI-edit.jpg' | relative_url }}" alt="Clinical trial consulting">
     <h3>Clinical Trial Consulting</h3>
     <p>Advanced imaging protocol design and interpretation using fMRI, DTI, and PET scans.</p>
     <ul class="list-check">
@@ -74,7 +74,7 @@ highlights:
     </ul>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/Major-anatomical-tracts-of-the-brain-Major-fiber-tracts-based-on-the-Johns-Hopkins.png" alt="Advanced imaging techniques">
+    <img src="{{ '/assets/images/uploads/2024/10/Major-anatomical-tracts-of-the-brain-Major-fiber-tracts-based-on-the-Johns-Hopkins.png' | relative_url }}" alt="Advanced imaging techniques">
     <h3>Advanced Imaging Techniques and Analysis</h3>
     <p>Expert interpretation of functional MRI (fMRI), Diffusion Tensor Imaging (DTI), Tractography, MR spectroscopy, and SPECT.</p>
     <ul class="list-check">
@@ -83,7 +83,7 @@ highlights:
     </ul>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/3-s2.0-B978008100123300004X-f04-13-9780081001233.jpg" alt="Study design and methodology development">
+    <img src="{{ '/assets/images/uploads/2024/10/3-s2.0-B978008100123300004X-f04-13-9780081001233.jpg' | relative_url }}" alt="Study design and methodology development">
     <h3>Study Design and Methodology Development</h3>
     <p>Expert guidance on hypothesis development, study frameworks, and data accuracy strategies.</p>
     <ul class="list-check">
@@ -92,7 +92,7 @@ highlights:
     </ul>
   </div>
   <div class="service-subcard">
-    <img src="/wp-content/uploads/2024/10/techday_cd4c0f9e0cc2eb77c1c0.webp" alt="Data and imaging analysis for clinical research">
+    <img src="{{ '/assets/images/uploads/2024/10/techday_cd4c0f9e0cc2eb77c1c0.webp' | relative_url }}" alt="Data and imaging analysis for clinical research">
     <h3>Data and Imaging Analysis for Clinical Research</h3>
     <p>Specialized interpretation of MRI, CT, and PET imaging data to guide research strategies.</p>
     <ul class="list-check">
@@ -110,8 +110,8 @@ highlights:
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2024/12/pexels-mart-production-7088491.jpg" alt="Grant and IRB application support">
-      <img src="/wp-content/uploads/2024/10/pexels-cottonbro-5723883-1024x682.jpg" alt="White matter imaging">
+      <img src="{{ '/assets/images/uploads/2024/12/pexels-mart-production-7088491.jpg' | relative_url }}" alt="Grant and IRB application support">
+      <img src="{{ '/assets/images/uploads/2024/10/pexels-cottonbro-5723883-1024x682.jpg' | relative_url }}" alt="White matter imaging">
     </div>
   </div>
 </div>
@@ -127,7 +127,7 @@ highlights:
     <p>Advanced neuroradiology is transforming clinical trials by providing in-depth insights into the brain's structure and function. Techniques like MRI and CT scans detect subtle changes, helping doctors track treatment effectiveness with precision. This accelerates trials and drives breakthroughs in Alzheimer's, stroke, and other neurological disorders.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/neruo.jpg" alt="Why neuroradiology">
+    <img src="{{ '/assets/images/uploads/2024/10/neruo.jpg' | relative_url }}" alt="Why neuroradiology">
   </div>
 </div>
 
@@ -139,12 +139,12 @@ highlights:
   <li>History of successful collaborations with research groups, businesses, and academic institutions.</li>
 </ul>
 
-<p>Need more information, or want an estimate? <a href="/contact-us/">Contact us today</a> to discuss your study goals.</p>
+<p>Need more information, or want an estimate? <a href="{{ '/contact-us/' | relative_url }}">Contact us today</a> to discuss your study goals.</p>
 
 ## Related services
 
 <ul class="list-check">
-  <li><a href="/our-services/clinical-neuroradiology-consulting/">Clinical Neuroradiology Consulting</a></li>
-  <li><a href="/our-services/radiology-business-consulting/">Radiology Business Consulting</a></li>
-  <li><a href="/our-services/forensic-neuroradiology/">Forensic Neuroradiology Services</a></li>
+  <li><a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Clinical Neuroradiology Consulting</a></li>
+  <li><a href="{{ '/our-services/radiology-business-consulting/' | relative_url }}">Radiology Business Consulting</a></li>
+  <li><a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Forensic Neuroradiology Services</a></li>
 </ul>

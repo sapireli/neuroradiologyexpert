@@ -15,7 +15,7 @@ Have you ever wondered what happens when a single misread medical scan turns som
 - [The Significance of This Case for Attorneys](#the-significance-of-this-case-for-attorneys)
 - [Conclusion](#conclusion)
 
-To help make things clearer, this is the story of how a 7-month-old infant was misdiagnosed as a victim of child abuse, and how [expert neuroradiologists](/about-us/) are helping to uncover the truth.
+To help make things clearer, this is the story of how a 7-month-old infant was misdiagnosed as a victim of child abuse, and how [expert neuroradiologists]({{ '/about-us/' | relative_url }}) are helping to uncover the truth.
 
 ## A Diagnosis that Changed Everything
 When the baby was brought to the emergency department with seizures, the initial CT and MRI scans showed subdural and intraparenchymal bleeding and skull fractures. That report alone was enough for authorities to intervene.
@@ -59,8 +59,8 @@ This is why attorneys and judges increasingly rely on credentialed expert neuror
 ## Conclusion
 In medicine, misinterpretation can cost lives. In the legal system, it can cost families. But when specialized neuroradiology steps in, it can make a world of difference between a broken family and a healed one.
 
-Need expert neuroradiology support? From high-credibility imaging reviews to [expert witness support](/our-services/forensic-neuroradiology/), the subspecialty neuroradiologists at [Neuro Experts, PC](/), provide the precision and clarity your case deserves. Reach out today to ensure your next case is backed by authoritative, courtroom-ready expertise.
+Need expert neuroradiology support? From high-credibility imaging reviews to [expert witness support]({{ '/our-services/forensic-neuroradiology/' | relative_url }}), the subspecialty neuroradiologists at [Neuro Experts, PC]({{ '/' | relative_url }}), provide the precision and clarity your case deserves. Reach out today to ensure your next case is backed by authoritative, courtroom-ready expertise.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

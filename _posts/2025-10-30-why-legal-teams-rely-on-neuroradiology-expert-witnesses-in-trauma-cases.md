@@ -7,7 +7,7 @@ description: "Need a credible neuroradiology expert witness? We connect legal te
 ---
 ## Summary:
 
-*Invisible brain injuries can dramatically impact lives, but proving them isn’t easy. Neuroradiology expert witnesses* [*bridge the gap between medical complexity and legal clarity*](/blog/how-neuroradiologists-validate-neurological-claims-in-court/)*, detecting subtle injuries and explaining their real-world effects.*
+*Invisible brain injuries can dramatically impact lives, but proving them isn’t easy. Neuroradiology expert witnesses* [*bridge the gap between medical complexity and legal clarity*]({{ '/blog/how-neuroradiologists-validate-neurological-claims-in-court/' | relative_url }})*, detecting subtle injuries and explaining their real-world effects.*
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ description: "Need a credible neuroradiology expert witness? We connect legal te
 
 ## Introduction
 
-Imagine a client walking into a courtroom after a severe car accident. They feel different, slower, forgetful, and maybe even emotionally off, but standard medical exams show “nothing seriously wrong.” As a lawyer, how do you prove that an injury exists and the victim deserves compensation? That’s exactly where a [neuroradiology expert witness becomes a game-changer](/blog/winning-personal-injury-cases-with-neuroradiology-expertise/).
+Imagine a client walking into a courtroom after a severe car accident. They feel different, slower, forgetful, and maybe even emotionally off, but standard medical exams show “nothing seriously wrong.” As a lawyer, how do you prove that an injury exists and the victim deserves compensation? That’s exactly where a [neuroradiology expert witness becomes a game-changer]({{ '/blog/winning-personal-injury-cases-with-neuroradiology-expertise/' | relative_url }}).
 
 Trauma cases often hinge on “invisible”, subtle brain injuries that can drastically impact a person’s life without leaving any trace in routine tests. Concussions, diffuse axonal injuries, or micro-hemorrhages might elude a standard MRI or CT scan, yet they have profound consequences. This is why legal teams need a bridge between clinical reality and courtroom understanding, and neuroradiology experts are well-positioned to serve as that bridge.
 
@@ -43,7 +43,7 @@ In courtrooms, jargon flies, evidence is scrutinized, and opposing counsel tries
 
 Neuroradiology experts can do more than just read scans; they tell a story that supports justice, and transform abstract brain changes into concrete evidence that a legal team can use to advocate for clients. For lawyers handling trauma cases, having a neuroradiology expert witness isn’t just helpful; it’s imperative because in cases where the injuries are invisible but life-altering, these specialists provide the clarity, credibility, and expertise needed to ensure victims are fairly represented.
 
-Looking for neuroradiology medico-legal experts to support brain injury claim, compensation, or medical malpractice cases? Feel free to [contact our team](/contact-us/) at Neuro Experts today!
+Looking for neuroradiology medico-legal experts to support brain injury claim, compensation, or medical malpractice cases? Feel free to [contact our team]({{ '/contact-us/' | relative_url }}) at Neuro Experts today!
 
 ## FAQs
 
@@ -68,5 +68,5 @@ Yes, they do, and their testimony proves game-changing in the court.
 No, subtle injuries often require advanced neuroradiology imaging.
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="/our-services/forensic-neuroradiology/">Explore Forensic neuroradiology services</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need defensible imaging review or expert testimony for a case like this? <a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Explore Forensic neuroradiology services</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

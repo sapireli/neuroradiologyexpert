@@ -13,7 +13,7 @@ redirect_from:
 
 <div class="team-profile">
   <div class="team-profile-media">
-    <img class="team-profile-photo" src="/wp-content/uploads/2024/10/IMG_636029.jpg" alt="Saman Hazany MD, DABR">
+    <img class="team-profile-photo" src="{{ '/assets/images/uploads/2024/10/IMG_636029.jpg' | relative_url }}" alt="Saman Hazany MD, DABR">
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:info@neuroexpertsgroup.com">info@neuroexpertsgroup.com</a>
@@ -51,7 +51,7 @@ redirect_from:
       <li>CEO and chief neuroradiology expert witness at Neuro Experts, PC (2018-present).</li>
       <li>Frequent presenter and invited lecturer in neuroradiology and TBI imaging.</li>
     </ul>
-    <p><a href="/blog/team-member/saman-hazany/">View full leadership profile</a></p>
+    <p><a href="{{ '/blog/team-member/saman-hazany/' | relative_url }}">View full leadership profile</a></p>
   </div>
 </div>
 
@@ -61,7 +61,7 @@ redirect_from:
 
 <div class="team-profile">
   <div class="team-profile-media">
-    <img class="team-profile-photo" src="/wp-content/uploads/2025/10/danny-benmoshe.jpg" alt="Danny Benmoshe MD">
+    <img class="team-profile-photo" src="{{ '/assets/images/uploads/2025/10/danny-benmoshe.jpg' | relative_url }}" alt="Danny Benmoshe MD">
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:dbenmoshe@neuroexpertsgroup.com">dbenmoshe@neuroexpertsgroup.com</a>
@@ -102,7 +102,7 @@ redirect_from:
 
 <div class="team-profile">
   <div class="team-profile-media">
-    <img class="team-profile-photo" src="/wp-content/uploads/2025/10/liorah-sabbah-scaled.jpg" alt="Liorah Sabbah PhD">
+    <img class="team-profile-photo" src="{{ '/assets/images/uploads/2025/10/liorah-sabbah-scaled.jpg' | relative_url }}" alt="Liorah Sabbah PhD">
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:lsabbah@neuroexpertsgroup.com">lsabbah@neuroexpertsgroup.com</a>
@@ -143,7 +143,7 @@ redirect_from:
 
 <div class="team-profile">
   <div class="team-profile-media">
-    <img class="team-profile-photo" src="/wp-content/uploads/2025/10/daniel-fenton-scaled.jpg" alt="Daniel Fenton PhD">
+    <img class="team-profile-photo" src="{{ '/assets/images/uploads/2025/10/daniel-fenton-scaled.jpg' | relative_url }}" alt="Daniel Fenton PhD">
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:dfenton@neuroexpertsgroup.com">dfenton@neuroexpertsgroup.com</a>
@@ -184,7 +184,7 @@ redirect_from:
 
 <div class="team-profile">
   <div class="team-profile-media">
-    <img class="team-profile-photo" src="/wp-content/uploads/2025/10/nusha-bashardoust-scaled.jpg" alt="Nusha Bashardoust">
+    <img class="team-profile-photo" src="{{ '/assets/images/uploads/2025/10/nusha-bashardoust-scaled.jpg' | relative_url }}" alt="Nusha Bashardoust">
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:nbashardoust@neuroexpertsgroup.com">nbashardoust@neuroexpertsgroup.com</a>
@@ -225,7 +225,7 @@ redirect_from:
 
 <div class="team-profile">
   <div class="team-profile-media">
-    <img class="team-profile-photo" src="/wp-content/uploads/2025/10/sandra-bolando.jpeg" alt="Sandra Bolando">
+    <img class="team-profile-photo" src="{{ '/assets/images/uploads/2025/10/sandra-bolando.jpeg' | relative_url }}" alt="Sandra Bolando">
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:sbolando@neuroexpertsgroup.com">sbolando@neuroexpertsgroup.com</a>
@@ -265,5 +265,5 @@ redirect_from:
 ## Connect with the team
 
 <div class="callout">
-  <p>Need to speak with a specialist? <a href="/contact-us/">Contact us</a> to schedule a consultation or request a case review.</p>
+  <p>Need to speak with a specialist? <a href="{{ '/contact-us/' | relative_url }}">Contact us</a> to schedule a consultation or request a case review.</p>
 </div>

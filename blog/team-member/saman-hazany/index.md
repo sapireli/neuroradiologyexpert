@@ -8,7 +8,7 @@ permalink: /blog/team-member/saman-hazany/
 
 <div class="split-block">
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/10/IMG_636029.jpg" alt="Saman Hazany MD, DABR">
+    <img src="{{ '/assets/images/uploads/2024/10/IMG_636029.jpg' | relative_url }}" alt="Saman Hazany MD, DABR">
   </div>
   <div>
     <p>Saman Hazany, MD, DABR is a Harvard-trained, board-certified neuroradiologist and founder of Neuro Experts, PC. He specializes in traumatic brain and spine injury imaging, including advanced modalities such as Diffusion Tensor Imaging (DTI), and provides expert medical-legal consultation for complex cases.</p>
@@ -18,7 +18,7 @@ permalink: /blog/team-member/saman-hazany/
       <li><strong>Degree:</strong> MD</li>
       <li><strong>Focus:</strong> TBI imaging, DTI analysis, and medico-legal interpretation</li>
     </ul>
-    <a class="text-link" href="/contact-us/">Schedule a consultation</a>
+    <a class="text-link" href="{{ '/contact-us/' | relative_url }}">Schedule a consultation</a>
   </div>
 </div>
 
@@ -58,4 +58,4 @@ permalink: /blog/team-member/saman-hazany/
 
 ## Work with Dr. Hazany
 
-If your case requires a clear, defensible neuroradiology opinion, our team can help. [Contact Neuro Experts](/contact-us/) to schedule an initial consultation.
+If your case requires a clear, defensible neuroradiology opinion, our team can help. [Contact Neuro Experts]({{ '/contact-us/' | relative_url }}) to schedule an initial consultation.

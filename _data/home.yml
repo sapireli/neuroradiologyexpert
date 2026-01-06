@@ -24,32 +24,32 @@ services_section:
 services:
   - title: "Forensic Neuroradiology"
     url: "/our-services/forensic-neuroradiology/"
-    image: "/wp-content/uploads/2024/12/7068-300x240.jpg"
+    image: "/assets/images/uploads/2024/12/7068-300x240.jpg"
     description: "Independent imaging review and expert testimony for trauma and injury cases."
   - title: "Forensic Neuropsychology"
     url: "/our-services/forensic-neuropsychological-services/"
-    image: "/wp-content/uploads/2024/12/neuro-300x240.jpeg"
+    image: "/assets/images/uploads/2024/12/neuro-300x240.jpeg"
     description: "Objective cognitive assessment aligned with neuroimaging findings."
   - title: "Forensic Neurology"
     url: "/our-services/forensic-neurology-services/"
-    image: "/wp-content/uploads/2024/12/perfusion-300x240.jpg"
+    image: "/assets/images/uploads/2024/12/perfusion-300x240.jpg"
     description: "Neurologic evaluation and medical-legal interpretation for complex cases."
   - title: "Clinical Neuroradiology"
     url: "/our-services/clinical-neuroradiology-consulting/"
-    image: "/wp-content/uploads/2024/10/34589-300x240.jpg"
+    image: "/assets/images/uploads/2024/10/34589-300x240.jpg"
     description: "Second opinions and protocol review for hospitals and clinics."
   - title: "Research & Clinical Trials"
     url: "/our-services/research-clinical-trial-consulting/"
-    image: "/wp-content/uploads/2024/12/neuro.jpeg"
+    image: "/assets/images/uploads/2024/12/neuro.jpeg"
     description: "Imaging biomarkers, study design, and trial support."
   - title: "Radiology Business Consulting"
     url: "/our-services/radiology-business-consulting/"
-    image: "/wp-content/uploads/2024/12/2307.jpg"
+    image: "/assets/images/uploads/2024/12/2307.jpg"
     description: "Operational strategy and growth planning for imaging practices."
 
 transformative:
   title: "Transformative Neuroradiology Services"
-  image: "/wp-content/uploads/2024/10/pexels-googledeepmind-17483867.jpg"
+  image: "/assets/images/uploads/2024/10/pexels-googledeepmind-17483867.jpg"
   paragraphs:
     - "As a leading spine and brain imaging center, our neuroradiology services cater to a wide range of clients, from research centers and medical centers to professional attorneys needing expert neutral witnesses who understand the case's subject matter and provide without fear or favor witnesses. At Neuro Experts, PC, we excel in spine and brain imaging diagnostics to offer precise evaluation for conditions such as traumatic brain injury, spine injury, brain tumors, multiple sclerosis, and epilepsy."
     - "From diagnosing complex neuroradiological conditions to offering results promptly, we take pride in delivering quality images and actionable insights for all our clients."
@@ -57,7 +57,7 @@ transformative:
 why:
   title: "Why choose us?"
   summary: "Comprehensive, unbiased, and precise evaluation of a wide range of disorders such as traumatic brain injury, spine injury, brain tumors, multiple sclerosis, and epilepsy."
-  image: "/wp-content/uploads/2026/01/about-us-doctor-2026.png"
+  image: "/assets/images/uploads/2026/01/about-us-doctor-2026.png"
   points:
     - "Board-certified experts with extensive experience in medical imaging and clinical research consulting."
     - "Comprehensive, unbiased interpretation across CT, PET, SPECT, MRI, DTI, functional MRI, MR perfusion, and MR spectroscopy, plus volumetric analysis (NeuroQuant, icometrix, etc.)."
@@ -96,10 +96,10 @@ expertise:
 gallery:
   title: "Gallery of our clinic"
   images:
-    - "/wp-content/uploads/2024/12/brain-and-spine-mri-pictures-1.jpeg"
-    - "/wp-content/uploads/2024/12/dti-2.jpeg"
-    - "/wp-content/uploads/2024/12/34574.jpg"
-    - "/wp-content/uploads/2024/12/2307.jpg"
+    - "/assets/images/uploads/2024/12/brain-and-spine-mri-pictures-1.jpeg"
+    - "/assets/images/uploads/2024/12/dti-2.jpeg"
+    - "/assets/images/uploads/2024/12/34574.jpg"
+    - "/assets/images/uploads/2024/12/2307.jpg"
 
 team:
   title: "Meet our team"
@@ -107,7 +107,7 @@ team:
   name: "Meet the full team"
   role: "Board-certified neuroradiology, neurology, and neuropsychology specialists"
   url: "/team/"
-  image: "/wp-content/uploads/2024/10/IMG_636029.jpg"
+  image: "/assets/images/uploads/2024/10/IMG_636029.jpg"
 
 contact:
   title: "Contact Neuro Experts, PC Today"

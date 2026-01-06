@@ -10,5 +10,5 @@ This is one of our published cases that illustrates the necessity of a neuroradi
 [See Our publication describing the details of this case by clicking here](https://www.ajnr.org/content/cow/05022019)
 
 <div class="callout">
-  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="/our-services/clinical-neuroradiology-consulting/">Explore Clinical neuroradiology consulting</a> or <a href="/contact-us/">contact us</a> for a consultation.</p>
+  <p><strong>Next step:</strong> Need a second opinion or advanced neuroimaging interpretation? <a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Explore Clinical neuroradiology consulting</a> or <a href="{{ '/contact-us/' | relative_url }}">contact us</a> for a consultation.</p>
 </div>

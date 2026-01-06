@@ -6,3 +6,4 @@ _site-final2/
 .jekyll-cache/
 .bundle/
 .sass-cache/
+.DS_Store

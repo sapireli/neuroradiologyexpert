@@ -13,7 +13,7 @@ layout: default
     <div class="services-quicklist">
       {% assign services = site.services | sort: "order" %}
       {% for service in services %}
-        <a class="service-row" href="{{ service.url }}">
+        <a class="service-row" href="{{ service.url | relative_url }}">
           <div class="service-row-title">{{ service.title }}</div>
           <div class="service-row-arrow">→</div>
           {% if service.description %}<div class="service-row-desc">{{ service.description | strip_html }}</div>{% endif %}

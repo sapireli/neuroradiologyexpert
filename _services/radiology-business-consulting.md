@@ -4,8 +4,8 @@ title: "Radiology Business Consulting Services by Neuro Experts, PC"
 slug: radiology-business-consulting
 order: 5
 description: "Boost your radiology practice revenue and efficiency. Get a strategic business consulting plan to optimize workflow and growth. Book a Free Consultation!"
-hero_image: "/wp-content/uploads/2024/12/2307.jpg"
-card_image: "/wp-content/uploads/2024/12/2307.jpg"
+hero_image: "/assets/images/uploads/2024/12/2307.jpg"
+card_image: "/assets/images/uploads/2024/12/2307.jpg"
 highlights:
   - title: "Practice setup + expansion"
     text: "Strategic planning for sustainable growth and service-line clarity."
@@ -24,8 +24,8 @@ highlights:
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2024/12/2307.jpg" alt="Advanced neuroradiology business consulting services">
-      <img src="/wp-content/uploads/2024/10/pexels-shvetsa-4226219.jpg" alt="Neuroradiology-driven clinical advancements">
+      <img src="{{ '/assets/images/uploads/2024/12/2307.jpg' | relative_url }}" alt="Advanced neuroradiology business consulting services">
+      <img src="{{ '/assets/images/uploads/2024/10/pexels-shvetsa-4226219.jpg' | relative_url }}" alt="Neuroradiology-driven clinical advancements">
     </div>
   </div>
 </div>
@@ -48,8 +48,8 @@ highlights:
   </div>
   <div class="split-media">
     <div class="media-grid">
-      <img src="/wp-content/uploads/2024/12/2151111161.jpg" alt="Enhancing patient experience and service quality">
-      <img src="/wp-content/uploads/2024/10/pexels-cottonbro-5723883-1024x682.jpg" alt="White matter imaging">
+      <img src="{{ '/assets/images/uploads/2024/12/2151111161.jpg' | relative_url }}" alt="Enhancing patient experience and service quality">
+      <img src="{{ '/assets/images/uploads/2024/10/pexels-cottonbro-5723883-1024x682.jpg' | relative_url }}" alt="White matter imaging">
     </div>
   </div>
 </div>
@@ -75,18 +75,18 @@ highlights:
     <p>Whether you want to start a new Radiology Business Setup, expand into Neuroradiology, or improve the efficiency and profitability of your existing radiology business, we have got your back.</p>
   </div>
   <div class="split-media">
-    <img src="/wp-content/uploads/2024/12/NeuroRadiology-Naperville.jpg" alt="Radiology business consulting">
+    <img src="{{ '/assets/images/uploads/2024/12/NeuroRadiology-Naperville.jpg' | relative_url }}" alt="Radiology business consulting">
   </div>
 </div>
 
 ## Get a tailored consulting plan
 
-We are ready to help you build a sustainable, high-performing practice with clear clinical and operational direction. [Contact us](/contact-us/) to discuss your goals.
+We are ready to help you build a sustainable, high-performing practice with clear clinical and operational direction. [Contact us]({{ '/contact-us/' | relative_url }}) to discuss your goals.
 
 ## Related services
 
 <ul class="list-check">
-  <li><a href="/our-services/clinical-neuroradiology-consulting/">Clinical Neuroradiology Consulting</a></li>
-  <li><a href="/our-services/research-clinical-trial-consulting/">Research &amp; Clinical Trial Consulting</a></li>
-  <li><a href="/our-services/forensic-neuroradiology/">Forensic Neuroradiology Services</a></li>
+  <li><a href="{{ '/our-services/clinical-neuroradiology-consulting/' | relative_url }}">Clinical Neuroradiology Consulting</a></li>
+  <li><a href="{{ '/our-services/research-clinical-trial-consulting/' | relative_url }}">Research &amp; Clinical Trial Consulting</a></li>
+  <li><a href="{{ '/our-services/forensic-neuroradiology/' | relative_url }}">Forensic Neuroradiology Services</a></li>
 </ul>
