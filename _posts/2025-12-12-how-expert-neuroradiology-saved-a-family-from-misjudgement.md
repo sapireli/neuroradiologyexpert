@@ -4,6 +4,10 @@ title: "How Expert Neuroradiology Saved a Family from Misjudgement"
 date: 2025-12-12 07:39:13
 permalink: /blog/how-expert-neuroradiology-saved-a-family-from-misjudgement/
 description: "A family was torn apart due to a misinterpreted scan. Expert neuroradiology exposed the real cause and changed everything. Consult our experts now."
+tags:
+  - Forensic
+  - Expert Witness
+  - Case Study
 ---
 Have you ever wondered what happens when a single misread medical scan turns someone’s life upside down? Imagine being a parent who is suddenly accused of harming their own child, all because an imaging report was interpreted incorrectly. Unfortunately, that’s not a hypothetical; it’s exactly what happened in a case that reminds us why, in high-stakes situations, precision in neuroradiology isn’t optional; it’s imperative.
 

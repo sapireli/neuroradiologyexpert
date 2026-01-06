@@ -4,6 +4,10 @@ title: "78-year-old man with history of multiple prior falls"
 date: 2020-03-06 11:23:33
 permalink: /blog/78-year-old-man-with-history-of-multiple-prior-falls/
 description: "Case Study: Diagnostic imaging of a 78-year-old with multiple falls. Review the CT and MRI diagnosis in this complex neuroradiology case."
+tags:
+  - Case Study
+  - Clinical
+  - TBI
 ---
 A 78-year-old male with history of multiple prior falls is brought into the local ED from his care facility because his caretaker noticed his altered mental status. A head CT was obtained.
 

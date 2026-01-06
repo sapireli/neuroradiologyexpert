@@ -625,11 +625,24 @@ img {
   gap: 12px;
 }
 
-.pill-list span {
+.topic-pill {
   background: var(--bg-alt);
   padding: 10px 16px;
   border-radius: 999px;
   font-size: 0.9rem;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.topic-pill:hover {
+  border-color: rgba(var(--accent-rgb), 0.4);
+}
+
+.topic-pill.is-active {
+  background: rgba(var(--accent-rgb), 0.12);
+  border-color: rgba(var(--accent-rgb), 0.6);
+  color: var(--accent);
 }
 
 .topic-row {

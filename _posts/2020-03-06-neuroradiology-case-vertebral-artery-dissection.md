@@ -4,6 +4,9 @@ title: "Neuroradiology Case &#8220;Vertebral Artery Dissection&#8221;"
 date: 2020-03-06 10:49:54
 permalink: /blog/neuroradiology-case-vertebral-artery-dissection/
 description: "Neuroradiology Case: Learn to recognize and diagnose Vertebral Artery Dissection on imaging. Crucial lessons for stroke and neck pain."
+tags:
+  - Clinical
+  - Case Study
 ---
 We recently helped a 31 year-old otherwise healthy female who had a “vertebral artery dissection” secondary to chiropractic manipulation of her neck with subsequent strokes. Our neuroradiology experts identified subtle foci of stroke in the occipital cortex explaining her visual symptoms, as well as dissected left vertebral artery. The findings were unequivocal and the case was settled favorably during mediation.
 

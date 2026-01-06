@@ -131,3 +131,33 @@ if (revealSet.size) {
     revealSet.forEach((el) => el.classList.add('is-visible'));
   }
 }
+
+const topicFilter = document.querySelector('.topic-filter');
+if (topicFilter) {
+  const buttons = Array.from(topicFilter.querySelectorAll('.topic-pill'));
+  const cards = Array.from(document.querySelectorAll('[data-filter-grid] .post-card'));
+  const slugify = (value) => (value || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
+
+  const applyFilter = (topic) => {
+    const normalized = slugify(topic);
+    buttons.forEach((button) => {
+      const isActive = button.dataset.topic === normalized;
+      button.classList.toggle('is-active', isActive);
+      button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    });
+
+    cards.forEach((card) => {
+      const tags = (card.dataset.tags || '').split('|').map(slugify).filter(Boolean);
+      const match = normalized === 'all' || tags.includes(normalized);
+      card.style.display = match ? '' : 'none';
+    });
+  };
+
+  buttons.forEach((button) => {
+    button.setAttribute('aria-pressed', button.classList.contains('is-active') ? 'true' : 'false');
+    button.addEventListener('click', () => applyFilter(button.dataset.topic));
+  });
+}

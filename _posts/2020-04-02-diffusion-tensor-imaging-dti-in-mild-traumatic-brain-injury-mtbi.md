@@ -4,6 +4,10 @@ title: "Diffusion Tensor Imaging (DTI) in mild Traumatic Brain Injury (mTBI)"
 date: 2020-04-02 11:38:45
 permalink: /blog/diffusion-tensor-imaging-dti-in-mild-traumatic-brain-injury-mtbi/
 description: "Advanced neuroimaging techniques like DTI help diagnose mTBI. Understand the role of DTI imaging in traumatic brain injury care. Learn more now!"
+tags:
+  - TBI
+  - Research
+  - Imaging
 ---
 ** [Recent paper on medicolegal utility of Diffusion Tensor Imaging (DTI) in mild Traumatic Brain Injury (mTBI)]({{ '/assets/images/uploads/2024/10/mtbi-dtiincourtoom.pdf' | relative_url }})**
 

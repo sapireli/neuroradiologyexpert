@@ -4,6 +4,10 @@ title: "When do Attorneys Hire a Neuroradiologist Expert Witness for a Case?"
 date: 2025-04-25 12:48:22
 permalink: /blog/when-do-attorneys-hire-a-neuroradiologist-expert-witness-for-a-case/
 description: "Discover when attorneys hire neuroradiology expert witnesses in traumatic brain injury, medical malpractice, and more. Get expert opinions and witness services from Neuro Experts."
+tags:
+  - Expert Witness
+  - Forensic
+  - Legal Strategy
 ---
 In legal cases involving the brain, spine, or the CNS (Central Nervous System), the facts aren’t always visible to the naked eye. For example, a person sues someone for damages after a car accident, claiming that the victim has suffered a traumatic brain injury. The defense says the scans are normal, and the plaintiff’s symptoms are exaggerated. Both sides have medical records, but the jury has no idea what they are looking at, and neither do the attorneys. Who steps in there to make sense of it all? That’s where a [neuroscience expert witness can step in]({{ '/blog/winning-personal-injury-cases-with-neuroradiology-expertise/' | relative_url }}) with their impartial opinion. So, when exactly does a lawyer decide to bring a seasoned neuroradiologist witness into the picture? Let’s break it down!
 

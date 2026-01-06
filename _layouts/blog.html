@@ -17,15 +17,16 @@ layout: default
     {% endif %}
     <div class="topic-row">
       <div class="topic-label">Popular topics</div>
-      <div class="pill-list">
+      <div class="pill-list topic-filter" role="tablist" aria-label="Filter posts by topic">
+        <button class="topic-pill is-active" type="button" data-topic="all">All</button>
         {% for topic in site.data.blog.topics %}
-          <span>{{ topic }}</span>
+          <button class="topic-pill" type="button" data-topic="{{ topic | downcase | replace: ' ', '-' }}">{{ topic }}</button>
         {% endfor %}
       </div>
     </div>
-    <div class="post-grid">
+    <div class="post-grid" data-filter-grid>
       {% for post in site.posts %}
-        <article class="post-card">
+        <article class="post-card" data-tags="{{ post.tags | join: '|' | downcase }}">
           <div class="post-card-body">
             <div class="meta">{{ post.date | date: "%b %d, %Y" }}</div>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>

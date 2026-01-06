@@ -4,6 +4,10 @@ title: "Does Nutrition Promote Neurological Recovery After Acute Brain Injury?"
 date: 2024-02-16 11:50:14
 permalink: /blog/does-nutrition-promote-neurological-recovery-after-acute-brain-injury/
 description: "Can nutrition accelerate neurological recovery after acute brain injury? Dive into the science of diet, brain health, and healing."
+tags:
+  - TBI
+  - Clinical
+  - Recovery
 ---
 Yes! Nutritional status can be optimized in both pediatric and adult TBI populations to promotes neurologic recovery. See our recent publication on the topic:
 
