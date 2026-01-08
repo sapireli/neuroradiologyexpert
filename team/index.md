@@ -17,12 +17,43 @@ redirect_from:
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:info@neuroexpertsgroup.com">info@neuroexpertsgroup.com</a>
+      <div class="team-affiliations">
+        <div class="team-profile-label">Affiliations</div>
+        <div class="affiliation-grid">
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/harvard.svg' | relative_url }}" alt="Harvard University logo">
+            <span>Harvard</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/usc.svg' | relative_url }}" alt="USC logo">
+            <span>USC</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/ucla.svg' | relative_url }}" alt="UCLA logo">
+            <span>UCLA</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/va.svg' | relative_url }}" alt="VA logo">
+            <span>VA</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/rancho-los-amigos.svg' | relative_url }}" alt="Rancho Los Amigos logo">
+            <span>Rancho Los Amigos</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
       <h3>Saman Hazany, MD, DABR</h3>
       <p class="team-profile-role">Radiology and Neuroradiology</p>
+      <ul class="tag-list">
+        <li>Neuroradiology</li>
+        <li>Expert Witness</li>
+        <li>TBI Imaging</li>
+        <li>Leadership</li>
+      </ul>
     </div>
     <div class="team-profile-meta">
       <div>
@@ -65,12 +96,39 @@ redirect_from:
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:dbenmoshe@neuroexpertsgroup.com">dbenmoshe@neuroexpertsgroup.com</a>
+      <div class="team-affiliations">
+        <div class="team-profile-label">Affiliations</div>
+        <div class="affiliation-grid">
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/albert-einstein.svg' | relative_url }}" alt="Albert Einstein College of Medicine logo">
+            <span>Albert Einstein</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/harbor-ucla.svg' | relative_url }}" alt="Harbor-UCLA logo">
+            <span>Harbor-UCLA</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/cedars-sinai.svg' | relative_url }}" alt="Cedars-Sinai logo">
+            <span>Cedars-Sinai</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/brain-science-research-institute.svg' | relative_url }}" alt="Brain Science Research Institute logo">
+            <span>Brain Science</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
       <h3>Danny Benmoshe, MD</h3>
       <p class="team-profile-role">Neurology</p>
+      <ul class="tag-list">
+        <li>Neurology</li>
+        <li>TBI</li>
+        <li>Dementia</li>
+        <li>Clinical</li>
+      </ul>
     </div>
     <div class="team-profile-meta">
       <div>
@@ -106,12 +164,39 @@ redirect_from:
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:lsabbah@neuroexpertsgroup.com">lsabbah@neuroexpertsgroup.com</a>
+      <div class="team-affiliations">
+        <div class="team-profile-label">Affiliations</div>
+        <div class="affiliation-grid">
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/suffolk-university.svg' | relative_url }}" alt="Suffolk University logo">
+            <span>Suffolk</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/harvard-medical-school.svg' | relative_url }}" alt="Harvard Medical School logo">
+            <span>Harvard</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/cedars-sinai.svg' | relative_url }}" alt="Cedars-Sinai logo">
+            <span>Cedars-Sinai</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/california-rehab-institute.svg' | relative_url }}" alt="California Rehabilitation Institute logo">
+            <span>CA Rehab</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
       <h3>Liorah Sabbah, PhD</h3>
       <p class="team-profile-role">Neuropsychology</p>
+      <ul class="tag-list">
+        <li>Neuropsychology</li>
+        <li>Dementia</li>
+        <li>TBI</li>
+        <li>Clinical</li>
+      </ul>
     </div>
     <div class="team-profile-meta">
       <div>
@@ -147,12 +232,39 @@ redirect_from:
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:dfenton@neuroexpertsgroup.com">dfenton@neuroexpertsgroup.com</a>
+      <div class="team-affiliations">
+        <div class="team-profile-label">Affiliations</div>
+        <div class="affiliation-grid">
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/california-school-prof-psychology.svg' | relative_url }}" alt="California School of Professional Psychology logo">
+            <span>CSPP</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/iowa-city-va.svg' | relative_url }}" alt="Iowa City VA logo">
+            <span>Iowa City VA</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/cedars-sinai.svg' | relative_url }}" alt="Cedars-Sinai logo">
+            <span>Cedars-Sinai</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/california-rehab-institute.svg' | relative_url }}" alt="California Rehabilitation Institute logo">
+            <span>CA Rehab</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
       <h3>Daniel Fenton, PhD</h3>
       <p class="team-profile-role">Neuropsychology</p>
+      <ul class="tag-list">
+        <li>Neuropsychology</li>
+        <li>Brain Injury</li>
+        <li>Forensic</li>
+        <li>Cognitive Rehab</li>
+      </ul>
     </div>
     <div class="team-profile-meta">
       <div>
@@ -188,12 +300,30 @@ redirect_from:
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:nbashardoust@neuroexpertsgroup.com">nbashardoust@neuroexpertsgroup.com</a>
+      <div class="team-affiliations">
+        <div class="team-profile-label">Affiliations</div>
+        <div class="affiliation-grid">
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/usc-keck.svg' | relative_url }}" alt="USC Keck logo">
+            <span>USC Keck</span>
+          </div>
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/neuro-experts.svg' | relative_url }}" alt="Neuro Experts logo">
+            <span>Neuro Experts</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
       <h3>Nusha Bashardoust</h3>
       <p class="team-profile-role">Physician Assistant, Neurology and Emergency Medicine</p>
+      <ul class="tag-list">
+        <li>Emergency Med</li>
+        <li>Neurology</li>
+        <li>Medical-Legal</li>
+      </ul>
     </div>
     <div class="team-profile-meta">
       <div>
@@ -229,12 +359,26 @@ redirect_from:
     <div class="team-profile-contact">
       <div class="team-profile-label">Contact</div>
       <a href="mailto:sbolando@neuroexpertsgroup.com">sbolando@neuroexpertsgroup.com</a>
+      <div class="team-affiliations">
+        <div class="team-profile-label">Affiliations</div>
+        <div class="affiliation-grid">
+          <div class="affiliation-card">
+            <img src="{{ '/assets/img/affiliations/neuro-experts.svg' | relative_url }}" alt="Neuro Experts logo">
+            <span>Neuro Experts</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="team-profile-body">
     <div class="team-profile-header">
       <h3>Sandra Bolando</h3>
       <p class="team-profile-role">Executive Manager</p>
+      <ul class="tag-list">
+        <li>Operations</li>
+        <li>Leadership</li>
+        <li>Client Support</li>
+      </ul>
     </div>
     <div class="team-profile-meta">
       <div>

@@ -1052,6 +1052,43 @@ img {
   word-break: break-word;
 }
 
+.team-affiliations {
+  margin-top: 18px;
+}
+
+.affiliation-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.affiliation-card {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(20, 20, 31, 0.08);
+  background: #fff;
+  box-shadow: var(--shadow-soft);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.affiliation-card img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+@media (max-width: 700px) {
+  .affiliation-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 .service-content h2 {
   margin-top: 34px;
   padding-bottom: 12px;
