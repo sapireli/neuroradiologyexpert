@@ -149,6 +149,30 @@ img {
   gap: 6px;
 }
 
+.nav-caret {
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+}
+
+.nav-item.is-open .nav-caret,
+.nav-item:hover .nav-caret,
+.nav-item:focus-within .nav-caret {
+  transform: rotate(-135deg);
+}
+
+.nav-panel-toggle {
+  border: none;
+  background: transparent;
+  padding: 0;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+
 .nav-panel {
   position: absolute;
   top: calc(100% + 16px);
@@ -1623,6 +1647,10 @@ img {
     flex-direction: column;
     align-items: stretch;
     width: 100%;
+  }
+
+  .nav-panel-toggle {
+    display: none;
   }
 
   .nav-panel {

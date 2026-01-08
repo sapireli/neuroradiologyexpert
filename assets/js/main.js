@@ -22,6 +22,37 @@ if (toggle && nav) {
   });
 }
 
+const isDesktop = () => window.matchMedia('(min-width: 861px)').matches;
+navPanelItems.forEach((item) => {
+  item.addEventListener('mouseenter', () => {
+    if (!isDesktop()) return;
+    navPanelItems.forEach((panelItem) => {
+      if (panelItem !== item) {
+        panelItem.classList.remove('is-open');
+      }
+    });
+    item.classList.add('is-open');
+  });
+});
+
+if (nav) {
+  nav.addEventListener('mouseleave', () => {
+    if (!isDesktop()) return;
+    closeNavPanels();
+  });
+}
+
+navPanelItems.forEach((item) => {
+  const toggleButton = item.querySelector('.nav-panel-toggle');
+  if (!toggleButton) return;
+  toggleButton.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    const isOpen = item.classList.toggle('is-open');
+    toggleButton.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  });
+});
+
 if (nav && toggle) {
   nav.addEventListener('click', (event) => {
     const link = event.target.closest('a');
@@ -39,7 +70,7 @@ if (nav && toggle) {
           panelItem.classList.remove('is-open');
         }
       });
-      item.classList.toggle('is-open');
+      item.classList.add('is-open');
       return;
     }
     closeNav();
