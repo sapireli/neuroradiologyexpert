@@ -1613,6 +1613,10 @@ img {
   .nav-link {
     justify-content: space-between;
     width: 100%;
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--ink);
   }
 
   .nav-item {
@@ -1623,6 +1627,15 @@ img {
 
   .nav-panel {
     display: none;
+    position: static;
+    width: 100%;
+    min-width: 0;
+    margin-top: 8px;
+    background: var(--bg-alt);
+    border-radius: 14px;
+    padding: 12px;
+    border: 1px solid rgba(20, 20, 31, 0.08);
+    box-shadow: none;
   }
 
   .nav-item.is-open .nav-panel {

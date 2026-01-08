@@ -89,69 +89,6 @@ if (counters.length) {
   }
 }
 
-const revealGroups = [
-  '.capability-grid',
-  '.counter-grid',
-  '.service-grid',
-  '.post-grid',
-  '.feature-grid',
-  '.process-grid',
-  '.why-grid',
-  '.service-subgrid',
-  '.services-quicklist',
-  '.gallery-grid',
-  '.media-grid',
-  '.faq-accordion'
-];
-
-const revealSingles = [
-  '.split-block',
-  '.split-card',
-  '.intro-card',
-  '.contact-panel',
-  '.service-intro',
-  '.service-section',
-  '.highlight-card',
-  '.callout'
-];
-
-const revealSet = new Set();
-const setReveal = (el, delay) => {
-  if (!el || revealSet.has(el)) return;
-  el.classList.add('reveal');
-  if (typeof delay === 'number') {
-    el.style.setProperty('--reveal-delay', `${delay}s`);
-  }
-  revealSet.add(el);
-};
-
-revealGroups.forEach((selector) => {
-  document.querySelectorAll(selector).forEach((container) => {
-    Array.from(container.children).forEach((child, index) => {
-      setReveal(child, Math.min(index * 0.08, 0.4));
-    });
-  });
-});
-
-revealSingles.forEach((selector) => {
-  document.querySelectorAll(selector).forEach((el) => setReveal(el));
-});
-
-if (revealSet.size) {
-  if ('IntersectionObserver' in window) {
-    const observer = new IntersectionObserver((entries, obs) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('is-visible');
-          obs.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.15, rootMargin: '0px 0px -10% 0px' });
-    revealSet.forEach((el) => observer.observe(el));
-  } else {
-    revealSet.forEach((el) => el.classList.add('is-visible'));
-  }
-}
 
 const topicFilter = document.querySelector('.topic-filter');
 if (topicFilter) {
