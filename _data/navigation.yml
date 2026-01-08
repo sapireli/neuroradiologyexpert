@@ -27,8 +27,15 @@
           description: "Operational strategy and growth planning."
 - label: About Us
   url: /about-us/
-- label: Our Team
-  url: /team/
+  panel:
+    - title: "Company"
+      links:
+        - label: "About Us"
+          url: /about-us/
+          description: "Mission, values, and medical-legal focus."
+        - label: "Our Team"
+          url: /team/
+          description: "Meet our specialists and leadership."
 - label: FAQ
   url: /frequently-asked-questions/
 - label: Blog

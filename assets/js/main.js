@@ -1,20 +1,16 @@
 const toggle = document.querySelector('.nav-toggle');
 const nav = document.querySelector('.nav-links');
 const navPanelItems = document.querySelectorAll('.nav-item.has-panel');
+const closeNavPanels = () => {
+  navPanelItems.forEach((item) => {
+    item.classList.remove('is-open');
+  });
+};
 const closeNav = () => {
   if (!nav || !toggle) return;
   nav.classList.remove('open');
   toggle.setAttribute('aria-expanded', 'false');
   closeNavPanels();
-};
-const closeNavPanels = () => {
-  navPanelItems.forEach((item) => {
-    item.classList.remove('is-open');
-    const button = item.querySelector('.nav-panel-toggle');
-    if (button) {
-      button.setAttribute('aria-expanded', 'false');
-    }
-  });
 };
 if (toggle && nav) {
   toggle.addEventListener('click', () => {
@@ -26,23 +22,27 @@ if (toggle && nav) {
   });
 }
 
-navPanelItems.forEach((item) => {
-  const button = item.querySelector('.nav-panel-toggle');
-  if (!button) return;
-  button.addEventListener('click', (event) => {
-    event.preventDefault();
-    event.stopPropagation();
-    const isOpen = item.classList.toggle('is-open');
-    button.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-  });
-});
-
 if (nav && toggle) {
   nav.addEventListener('click', (event) => {
     const link = event.target.closest('a');
-    if (link && nav.classList.contains('open')) {
-      closeNav();
+    if (!link || !nav.classList.contains('open')) return;
+    const item = link.closest('.nav-item.has-panel');
+    const isMobile = window.matchMedia('(max-width: 860px)').matches;
+    if (item && isMobile) {
+      if (item.classList.contains('is-open')) {
+        closeNav();
+        return;
+      }
+      event.preventDefault();
+      navPanelItems.forEach((panelItem) => {
+        if (panelItem !== item) {
+          panelItem.classList.remove('is-open');
+        }
+      });
+      item.classList.toggle('is-open');
+      return;
     }
+    closeNav();
   });
 
   document.addEventListener('click', (event) => {

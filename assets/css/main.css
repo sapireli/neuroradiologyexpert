@@ -149,27 +149,6 @@ img {
   gap: 6px;
 }
 
-.nav-panel-toggle {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 28px;
-  height: 28px;
-  border: 1px solid rgba(20, 20, 31, 0.12);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.7);
-  color: var(--muted);
-  cursor: pointer;
-}
-
-.nav-panel-caret {
-  width: 8px;
-  height: 8px;
-  border-right: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
-  transform: rotate(45deg);
-}
-
 .nav-panel {
   position: absolute;
   top: calc(100% + 16px);
@@ -1638,12 +1617,8 @@ img {
     width: 100%;
   }
 
-  .nav-panel-toggle {
-    display: none;
-  }
-
   .nav-panel {
-    display: none !important;
+    display: none;
   }
 
   .nav-item.is-open .nav-panel {
