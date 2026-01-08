@@ -22,34 +22,25 @@ if (toggle && nav) {
   });
 }
 
-const isDesktop = () => window.matchMedia('(min-width: 861px)').matches;
 navPanelItems.forEach((item) => {
-  item.addEventListener('mouseenter', () => {
-    if (!isDesktop()) return;
+  const link = item.querySelector('.nav-link');
+  if (!link) return;
+  link.addEventListener('click', (event) => {
+    const isMobile = window.matchMedia('(max-width: 860px)').matches;
+    event.preventDefault();
     navPanelItems.forEach((panelItem) => {
       if (panelItem !== item) {
         panelItem.classList.remove('is-open');
       }
     });
-    item.classList.add('is-open');
-  });
-});
-
-if (nav) {
-  nav.addEventListener('mouseleave', () => {
-    if (!isDesktop()) return;
-    closeNavPanels();
-  });
-}
-
-navPanelItems.forEach((item) => {
-  const toggleButton = item.querySelector('.nav-panel-toggle');
-  if (!toggleButton) return;
-  toggleButton.addEventListener('click', (event) => {
-    event.preventDefault();
-    event.stopPropagation();
-    const isOpen = item.classList.toggle('is-open');
-    toggleButton.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    const shouldOpen = !item.classList.contains('is-open');
+    item.classList.toggle('is-open', shouldOpen);
+    if (!isMobile && !shouldOpen) {
+      return;
+    }
+    if (isMobile && !shouldOpen) {
+      closeNav();
+    }
   });
 });
 
@@ -60,26 +51,17 @@ if (nav && toggle) {
     const item = link.closest('.nav-item.has-panel');
     const isMobile = window.matchMedia('(max-width: 860px)').matches;
     if (item && isMobile) {
-      if (item.classList.contains('is-open')) {
-        closeNav();
-        return;
-      }
-      event.preventDefault();
-      navPanelItems.forEach((panelItem) => {
-        if (panelItem !== item) {
-          panelItem.classList.remove('is-open');
-        }
-      });
-      item.classList.add('is-open');
       return;
     }
     closeNav();
   });
 
   document.addEventListener('click', (event) => {
-    if (!nav.classList.contains('open')) return;
     if (event.target.closest('.nav-links') || event.target.closest('.nav-toggle')) return;
-    closeNav();
+    closeNavPanels();
+    if (nav.classList.contains('open')) {
+      closeNav();
+    }
   });
 }
 
