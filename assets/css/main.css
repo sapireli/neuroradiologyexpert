@@ -1411,8 +1411,9 @@ img {
 
 .site-footer {
   padding: 50px 0 30px;
-  background: var(--ocean);
+  background: linear-gradient(160deg, rgba(14, 57, 64, 1), rgba(9, 38, 44, 1));
   color: #fff;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .site-footer a {
@@ -1549,18 +1550,50 @@ img {
 
 .footer-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 32px;
 }
 
 .footer-title {
   font-weight: 600;
   margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  color: rgba(255, 255, 255, 0.72);
 }
 
 .footer-brand {
   font-family: "Fraunces", serif;
   font-size: 1.3rem;
+}
+
+.footer-branding p {
+  margin: 12px 0 0;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.footer-pill {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.8rem;
+}
+
+.footer-links {
+  gap: 8px;
+}
+
+.footer-cta-link {
+  display: inline-flex;
+  font-weight: 600;
 }
 
 .footer-note {
@@ -1576,16 +1609,19 @@ img {
 
 @media (max-width: 860px) {
   .nav-links {
-    position: absolute;
-    top: 64px;
-    right: 4vw;
+    position: fixed;
+    top: 76px;
+    left: 12px;
+    right: 12px;
     background: var(--card);
-    border-radius: 16px;
-    padding: 16px;
-    box-shadow: var(--shadow);
+    border-radius: 18px;
+    padding: 18px;
+    box-shadow: 0 24px 70px rgba(20, 20, 31, 0.22);
     flex-direction: column;
     gap: 12px;
     display: none;
+    max-height: calc(100vh - 96px);
+    overflow-y: auto;
   }
 
   .nav-links.open {
@@ -1610,6 +1646,7 @@ img {
     position: static;
     min-width: 0;
     width: 100%;
+    background: var(--bg-alt);
     box-shadow: none;
     border-radius: 14px;
     padding: 14px;
@@ -1640,6 +1677,15 @@ img {
   .service-highlights .container,
   .service-content .container {
     width: min(92vw, var(--service-width));
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-cta {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 

@@ -1,24 +1,40 @@
 <footer class="site-footer">
   <div class="container footer-grid">
-    <div>
+    <div class="footer-branding">
       <div class="footer-brand">Neuro Radiology Expert</div>
       <p>Specialized neuroradiology insights for clinical teams, legal counsel, and research leaders.</p>
+      <div class="footer-cta">
+        <span class="footer-pill">Free initial consultation</span>
+        <span class="footer-pill">Mon - Fri 8am - 6pm</span>
+      </div>
     </div>
-    <div>
+    <div class="footer-section">
+      <div class="footer-title">Services</div>
+      <ul class="footer-links">
+        {% assign services = site.services | sort: "order" %}
+        {% for service in services %}
+          <li><a href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="footer-section">
+      <div class="footer-title">Company</div>
+      <ul class="footer-links">
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about-us/' | relative_url }}">About</a></li>
+        <li><a href="{{ '/team/' | relative_url }}">Team</a></li>
+        <li><a href="{{ '/frequently-asked-questions/' | relative_url }}">FAQ</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+        <li><a href="{{ '/contact-us/' | relative_url }}">Contact</a></li>
+      </ul>
+    </div>
+    <div class="footer-section">
       <div class="footer-title">Contact</div>
       <p><a href="mailto:info@neuroexpertsgroup.com">info@neuroexpertsgroup.com</a></p>
       <p><a href="tel:+13105972626">+1 (310) 597-2626</a></p>
       <p>Mon - Fri, 8am - 6pm</p>
       <p>Los Angeles, CA</p>
-    </div>
-    <div>
-      <div class="footer-title">Explore</div>
-      <ul>
-        <li><a href="{{ '/about-us/' | relative_url }}">About</a></li>
-        <li><a href="{{ '/team/' | relative_url }}">Team</a></li>
-        <li><a href="{{ '/our-services/' | relative_url }}">Services</a></li>
-        <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-      </ul>
+      <p><a class="footer-cta-link" href="{{ '/contact-us/' | relative_url }}">Schedule a consult</a></p>
     </div>
   </div>
   <div class="container footer-note">© {{ site.time | date: "%Y" }} Neuro Radiology Expert. All rights reserved.</div>
