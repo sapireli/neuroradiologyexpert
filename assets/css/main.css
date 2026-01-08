@@ -1333,14 +1333,14 @@ img {
 .post-card h2 {
   margin: 0;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .post-card p {
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -1639,21 +1639,11 @@ img {
   }
 
   .nav-panel-toggle {
-    margin-left: 0;
+    display: none;
   }
 
   .nav-panel {
-    position: static;
-    min-width: 0;
-    width: 100%;
-    background: var(--bg-alt);
-    box-shadow: none;
-    border-radius: 14px;
-    padding: 14px;
-    opacity: 1;
-    transform: none;
-    pointer-events: auto;
-    display: none;
+    display: none !important;
   }
 
   .nav-item.is-open .nav-panel {

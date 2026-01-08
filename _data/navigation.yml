@@ -2,7 +2,7 @@
   url: /
 - label: Services
   url: /our-services/
-- panel:
+  panel:
     - title: "Forensic services"
       links:
         - label: "Forensic Neuroradiology"
@@ -25,17 +25,10 @@
         - label: "Radiology Business Consulting"
           url: /our-services/radiology-business-consulting/
           description: "Operational strategy and growth planning."
-- label: About
+- label: About Us
   url: /about-us/
-- panel:
-    - title: "Company"
-      links:
-        - label: "About Us"
-          url: /about-us/
-          description: "Mission, values, and medical-legal focus."
-        - label: "Our Team"
-          url: /team/
-          description: "Meet our specialists and leadership."
+- label: Our Team
+  url: /team/
 - label: FAQ
   url: /frequently-asked-questions/
 - label: Blog
