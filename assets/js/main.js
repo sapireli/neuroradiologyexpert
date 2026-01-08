@@ -4,6 +4,10 @@ const navPanelItems = document.querySelectorAll('.nav-item.has-panel');
 const closeNavPanels = () => {
   navPanelItems.forEach((item) => {
     item.classList.remove('is-open');
+    const link = item.querySelector('.nav-link');
+    if (link) {
+      link.setAttribute('aria-expanded', 'false');
+    }
   });
 };
 const closeNav = () => {
@@ -31,10 +35,15 @@ navPanelItems.forEach((item) => {
     navPanelItems.forEach((panelItem) => {
       if (panelItem !== item) {
         panelItem.classList.remove('is-open');
+        const otherLink = panelItem.querySelector('.nav-link');
+        if (otherLink) {
+          otherLink.setAttribute('aria-expanded', 'false');
+        }
       }
     });
     const shouldOpen = !item.classList.contains('is-open');
     item.classList.toggle('is-open', shouldOpen);
+    link.setAttribute('aria-expanded', shouldOpen ? 'true' : 'false');
     if (!isMobile && !shouldOpen) {
       return;
     }
@@ -47,13 +56,19 @@ navPanelItems.forEach((item) => {
 if (nav && toggle) {
   nav.addEventListener('click', (event) => {
     const link = event.target.closest('a');
-    if (!link || !nav.classList.contains('open')) return;
+    if (!link) return;
     const item = link.closest('.nav-item.has-panel');
     const isMobile = window.matchMedia('(max-width: 860px)').matches;
-    if (item && isMobile) {
+    if (item) {
+      if (isMobile) {
+        return;
+      }
       return;
     }
-    closeNav();
+    closeNavPanels();
+    if (nav.classList.contains('open')) {
+      closeNav();
+    }
   });
 
   document.addEventListener('click', (event) => {

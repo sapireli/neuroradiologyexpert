@@ -6,7 +6,7 @@
       {% for item in site.data.navigation %}
         {% if item.panel %}
           <div class="nav-item has-panel">
-            <a class="nav-link" href="{{ item.url | relative_url }}">
+            <a class="nav-link" href="{{ item.url | relative_url }}" aria-haspopup="true" aria-expanded="false">
               {{ item.label }}
               <span class="nav-caret" aria-hidden="true"></span>
             </a>
