@@ -1064,23 +1064,33 @@ img {
 
 .affiliation-card {
   display: grid;
-  grid-template-columns: 40px 1fr;
-  gap: 10px;
+  grid-template-rows: auto auto;
+  gap: 8px;
   align-items: center;
-  padding: 10px 12px;
-  border-radius: 14px;
+  justify-items: center;
+  text-align: center;
+  padding: 14px 12px;
+  border-radius: 16px;
   border: 1px solid rgba(20, 20, 31, 0.08);
   background: #fff;
   box-shadow: var(--shadow-soft);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--ink);
 }
 
 .affiliation-card img {
-  width: 40px;
+  width: 56px;
   height: 40px;
   object-fit: contain;
+}
+
+.affiliation-card span {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
 }
 
 @media (max-width: 700px) {
