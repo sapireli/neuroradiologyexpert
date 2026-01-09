@@ -1080,8 +1080,9 @@ img {
 }
 
 .affiliation-card img {
-  width: 80px;
-  height: 56px;
+  width: 100%;
+  max-width: 120px;
+  height: 64px;
   object-fit: contain;
 }
 
